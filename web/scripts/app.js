@@ -12,7 +12,7 @@ function init() {
   const app = document.getElementById('app');
   app.innerHTML = `
     <div class="container text-center">
-      <h1>Quizzy Wordy</h1>
+      <h1>Quizzy Wordy by Instafluff</h1>
       <p class="lead">The quizziest word memory helper app. No download required!</p>
       <div class="btn-group-vertical mt-4">
         <button class="btn btn-primary" onclick="loadWordList('cs-en', 'forward')">
@@ -22,6 +22,10 @@ function init() {
           <span class="material-symbols-outlined">bolt</span> English to Czech
         </button>
         <!-- Add more language options here -->
+      </div>
+      &nbsp;
+      <div>
+        <a href="https://forms.gle/vGb3ESvKunUJX86b9">Form to add words</a>
       </div>
     </div>
   `;
