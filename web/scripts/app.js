@@ -15,10 +15,10 @@ function init() {
       <h1>Quizzy Wordy</h1>
       <p class="lead">The quizziest word memory helper app. No download required!</p>
       <div class="btn-group-vertical mt-4">
-        <button class="btn btn-primary btn-lg mb-3" onclick="loadWordList('cs-en', 'forward')">
+        <button class="btn btn-primary" onclick="loadWordList('cs-en', 'forward')">
           <span class="material-symbols-outlined">bolt</span> Czech to English
         </button>
-        <button class="btn btn-primary btn-lg mb-3" onclick="loadWordList('cs-en', 'reverse')">
+        <button class="btn btn-primary" onclick="loadWordList('cs-en', 'reverse')">
           <span class="material-symbols-outlined">bolt</span> English to Czech
         </button>
         <!-- Add more language options here -->
@@ -31,7 +31,7 @@ function loadWordList(languagePair, direction = 'forward') {
   selectedLanguagePair = languagePair;
   translationDirection = direction;
 
-  fetch(`../data/${languagePair}.json`)
+  fetch(`web/data/${languagePair}.json`)
     .then(response => response.json())
     .then(data => {
       wordList = data;
@@ -88,7 +88,7 @@ function showQuestion() {
             ${options
               .map(
                 option => `
-              <button class="list-group-item list-group-item-action" onclick="selectOption(this, '${option}')">
+              <button class="list-group-item" onclick="selectOption(this, '${option}')">
                 ${option}
               </button>
             `
@@ -177,10 +177,10 @@ function showResults() {
           <h2 class="card-title">Quiz Completed!</h2>
           <p class="card-text lead">Your Score: <strong>${score} / ${questions.length}</strong></p>
           <p class="card-text">Percentage: <strong>${percentage}%</strong></p>
-          <button class="btn btn-primary m-2" onclick="startQuiz()">
+          <button class="btn btn-primary" onclick="startQuiz()">
             <span class="material-symbols-outlined">restart_alt</span> Restart Quiz
           </button>
-          <button class="btn btn-secondary m-2" onclick="init()">
+          <button class="btn btn-secondary" onclick="init()">
             <span class="material-symbols-outlined">home</span> Change Language
           </button>
         </div>
