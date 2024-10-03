@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "build": "node getwords.js"
+  },
+  "dependencies": {
+    "comfysheets": "^1.0.3",
+    "webwebweb": "^1.6.1"
+  }
+}
