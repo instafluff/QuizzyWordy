@@ -5,6 +5,496 @@
     "translation": "bus"
   },
   {
+    "date": "2024-10-04T19:12:50.000Z",
+    "word": "Angličan",
+    "translation": "Englishman"
+  },
+  {
+    "date": "2024-10-04T19:13:05.000Z",
+    "word": "ano",
+    "translation": "yes"
+  },
+  {
+    "date": "2024-10-04T19:13:33.000Z",
+    "word": "barevný",
+    "translation": "colored"
+  },
+  {
+    "date": "2024-10-04T19:13:44.000Z",
+    "word": "bílý",
+    "translation": "white"
+  },
+  {
+    "date": "2024-10-04T19:13:54.000Z",
+    "word": "být",
+    "translation": "to be"
+  },
+  {
+    "date": "2024-10-04T19:14:20.000Z",
+    "word": "jsem",
+    "translation": "I am"
+  },
+  {
+    "date": "2024-10-04T19:16:22.000Z",
+    "word": "cizinec",
+    "translation": "foreigner (M)"
+  },
+  {
+    "date": "2024-10-04T19:17:03.000Z",
+    "word": "cizinka",
+    "translation": "foreigner (F)"
+  },
+  {
+    "date": "2024-10-04T19:17:11.000Z",
+    "word": "co",
+    "translation": "what"
+  },
+  {
+    "date": "2024-10-04T19:18:20.000Z",
+    "word": "Čech",
+    "translation": "Czech person (M)"
+  },
+  {
+    "date": "2024-10-04T19:18:40.000Z",
+    "word": "Češka",
+    "translation": "Czech person (F)"
+  },
+  {
+    "date": "2024-10-04T19:18:56.000Z",
+    "word": "černý",
+    "translation": "black"
+  },
+  {
+    "date": "2024-10-04T19:19:10.000Z",
+    "word": "červený",
+    "translation": "red"
+  },
+  {
+    "date": "2024-10-04T19:19:29.000Z",
+    "word": "dítě",
+    "translation": "child"
+  },
+  {
+    "date": "2024-10-04T19:19:44.000Z",
+    "word": "dobrý",
+    "translation": "good"
+  },
+  {
+    "date": "2024-10-04T19:19:52.000Z",
+    "word": "dole",
+    "translation": "down"
+  },
+  {
+    "date": "2024-10-04T19:20:02.000Z",
+    "word": "film",
+    "translation": "film"
+  },
+  {
+    "date": "2024-10-04T19:20:51.000Z",
+    "word": "hezký",
+    "translation": "nice, pretty"
+  },
+  {
+    "date": "2024-10-04T19:21:03.000Z",
+    "word": "hnědý",
+    "translation": "brown"
+  },
+  {
+    "date": "2024-10-04T19:21:22.000Z",
+    "word": "hrad",
+    "translation": "castle"
+  },
+  {
+    "date": "2024-10-04T19:21:33.000Z",
+    "word": "já",
+    "translation": "I"
+  },
+  {
+    "date": "2024-10-04T19:21:39.000Z",
+    "word": "jako",
+    "translation": "like"
+  },
+  {
+    "date": "2024-10-04T19:22:00.000Z",
+    "word": "jaký",
+    "translation": "what sort of"
+  },
+  {
+    "date": "2024-10-04T19:22:06.000Z",
+    "word": "kde",
+    "translation": "where"
+  },
+  {
+    "date": "2024-10-04T19:22:14.000Z",
+    "word": "kdo",
+    "translation": "who"
+  },
+  {
+    "date": "2024-10-04T19:22:30.000Z",
+    "word": "koberec",
+    "translation": "carpet"
+  },
+  {
+    "date": "2024-10-04T19:22:41.000Z",
+    "word": "křeslo",
+    "translation": "armchair"
+  },
+  {
+    "date": "2024-10-04T19:22:57.000Z",
+    "word": "květina",
+    "translation": "flower"
+  },
+  {
+    "date": "2024-10-04T19:23:07.000Z",
+    "word": "lampa",
+    "translation": "lamp"
+  },
+  {
+    "date": "2024-10-04T19:24:32.000Z",
+    "word": "leží",
+    "translation": "lying down"
+  },
+  {
+    "date": "2024-10-04T19:24:43.000Z",
+    "word": "malý",
+    "translation": "small"
+  },
+  {
+    "date": "2024-10-04T19:24:50.000Z",
+    "word": "mladý",
+    "translation": "young"
+  },
+  {
+    "date": "2024-10-04T19:25:00.000Z",
+    "word": "moderní",
+    "translation": "modern"
+  },
+  {
+    "date": "2024-10-04T19:25:07.000Z",
+    "word": "modrý",
+    "translation": "blue"
+  },
+  {
+    "date": "2024-10-04T19:25:16.000Z",
+    "word": "muž",
+    "translation": "man"
+  },
+  {
+    "date": "2024-10-04T19:25:26.000Z",
+    "word": "my",
+    "translation": "we"
+  },
+  {
+    "date": "2024-10-04T19:28:19.000Z",
+    "word": "nahoře",
+    "translation": "up, above"
+  },
+  {
+    "date": "2024-10-04T19:28:47.000Z",
+    "word": "ne",
+    "translation": "no"
+  },
+  {
+    "date": "2024-10-04T19:28:53.000Z",
+    "word": "nový",
+    "translation": "new"
+  },
+  {
+    "date": "2024-10-04T19:29:32.000Z",
+    "word": "obraz",
+    "translation": "painting"
+  },
+  {
+    "date": "2024-10-04T19:29:39.000Z",
+    "word": "okno",
+    "translation": "window"
+  },
+  {
+    "date": "2024-10-04T19:29:49.000Z",
+    "word": "on",
+    "translation": "he"
+  },
+  {
+    "date": "2024-10-04T19:29:55.000Z",
+    "word": "ona",
+    "translation": "she"
+  },
+  {
+    "date": "2024-10-04T19:30:01.000Z",
+    "word": "ono",
+    "translation": "it"
+  },
+  {
+    "date": "2024-10-04T19:30:14.000Z",
+    "word": "ošklivý",
+    "translation": "ugly"
+  },
+  {
+    "date": "2024-10-04T19:30:30.000Z",
+    "word": "pán",
+    "translation": "Mr, gentleman"
+  },
+  {
+    "date": "2024-10-04T19:30:47.000Z",
+    "word": "paní",
+    "translation": "Mrs, lady"
+  },
+  {
+    "date": "2024-10-04T19:30:54.000Z",
+    "word": "pero",
+    "translation": "pen"
+  },
+  {
+    "date": "2024-10-04T19:31:02.000Z",
+    "word": "pokoj",
+    "translation": "room"
+  },
+  {
+    "date": "2024-10-04T19:31:09.000Z",
+    "word": "postel",
+    "translation": "bed"
+  },
+  {
+    "date": "2024-10-04T19:31:39.000Z",
+    "word": "profesor",
+    "translation": "professor (M)"
+  },
+  {
+    "date": "2024-10-04T19:31:54.000Z",
+    "word": "profesorka",
+    "translation": "professor (F)"
+  },
+  {
+    "date": "2024-10-04T19:32:07.000Z",
+    "word": "prosím",
+    "translation": "please"
+  },
+  {
+    "date": "2024-10-04T19:32:15.000Z",
+    "word": "rádio",
+    "translation": "radio"
+  },
+  {
+    "date": "2024-10-04T19:33:01.000Z",
+    "word": "rohlík",
+    "translation": "bread roll"
+  },
+  {
+    "date": "2024-10-04T19:33:11.000Z",
+    "word": "sedí",
+    "translation": "is sitting"
+  },
+  {
+    "date": "2024-10-04T19:33:41.000Z",
+    "word": "sešit",
+    "translation": "workbook"
+  },
+  {
+    "date": "2024-10-04T19:33:53.000Z",
+    "word": "slovo",
+    "translation": "word"
+  },
+  {
+    "date": "2024-10-04T19:34:06.000Z",
+    "word": "slovník",
+    "translation": "dictionary"
+  },
+  {
+    "date": "2024-10-04T19:34:24.000Z",
+    "word": "skříň",
+    "translation": "cabinet"
+  },
+  {
+    "date": "2024-10-04T19:34:38.000Z",
+    "word": "starý",
+    "translation": "old"
+  },
+  {
+    "date": "2024-10-04T19:34:46.000Z",
+    "word": "stojí",
+    "translation": "is standing"
+  },
+  {
+    "date": "2024-10-04T19:34:56.000Z",
+    "word": "student",
+    "translation": "student (M)"
+  },
+  {
+    "date": "2024-10-04T19:35:08.000Z",
+    "word": "studentka",
+    "translation": "student (F)"
+  },
+  {
+    "date": "2024-10-04T19:35:28.000Z",
+    "word": "stůl",
+    "translation": "table"
+  },
+  {
+    "date": "2024-10-04T19:35:35.000Z",
+    "word": "tady",
+    "translation": "here"
+  },
+  {
+    "date": "2024-10-04T19:35:43.000Z",
+    "word": "taky",
+    "translation": "also"
+  },
+  {
+    "date": "2024-10-04T19:35:51.000Z",
+    "word": "tam",
+    "translation": "there"
+  },
+  {
+    "date": "2024-10-04T19:36:12.000Z",
+    "word": "tamten",
+    "translation": "that (M)"
+  },
+  {
+    "date": "2024-10-04T19:36:21.000Z",
+    "word": "tamta",
+    "translation": "that (F)"
+  },
+  {
+    "date": "2024-10-04T19:36:35.000Z",
+    "word": "tamto",
+    "translation": "that (N)"
+  },
+  {
+    "date": "2024-10-04T19:37:06.000Z",
+    "word": "televize",
+    "translation": "television"
+  },
+  {
+    "date": "2024-10-04T19:37:15.000Z",
+    "word": "televizor",
+    "translation": "television set"
+  },
+  {
+    "date": "2024-10-04T19:38:01.000Z",
+    "word": "ten",
+    "translation": "the, that (M)"
+  },
+  {
+    "date": "2024-10-04T19:38:13.000Z",
+    "word": "ta",
+    "translation": "the, that (F)"
+  },
+  {
+    "date": "2024-10-04T19:38:25.000Z",
+    "word": "to",
+    "translation": "the, that (N)"
+  },
+  {
+    "date": "2024-10-04T19:38:36.000Z",
+    "word": "tenhle",
+    "translation": "this (M)"
+  },
+  {
+    "date": "2024-10-04T19:38:55.000Z",
+    "word": "tahle",
+    "translation": "this (F)"
+  },
+  {
+    "date": "2024-10-04T19:39:02.000Z",
+    "word": "tohle",
+    "translation": "this (N)"
+  },
+  {
+    "date": "2024-10-04T19:39:24.000Z",
+    "word": "tento",
+    "translation": "this (M)"
+  },
+  {
+    "date": "2024-10-04T19:39:33.000Z",
+    "word": "tato",
+    "translation": "this (F)"
+  },
+  {
+    "date": "2024-10-04T19:39:43.000Z",
+    "word": "toto",
+    "translation": "this (N)"
+  },
+  {
+    "date": "2024-10-04T19:39:58.000Z",
+    "word": "ty",
+    "translation": "you (informal)"
+  },
+  {
+    "date": "2024-10-04T19:40:11.000Z",
+    "word": "učitel",
+    "translation": "teacher (M)"
+  },
+  {
+    "date": "2024-10-04T19:40:23.000Z",
+    "word": "učitelka",
+    "translation": "teacher (F)"
+  },
+  {
+    "date": "2024-10-04T19:40:40.000Z",
+    "word": "uprostřed",
+    "translation": "in the middle"
+  },
+  {
+    "date": "2024-10-04T19:40:48.000Z",
+    "word": "vedle",
+    "translation": "next to"
+  },
+  {
+    "date": "2024-10-04T19:40:57.000Z",
+    "word": "velký",
+    "translation": "big"
+  },
+  {
+    "date": "2024-10-04T19:41:13.000Z",
+    "word": "vepředu",
+    "translation": "in front"
+  },
+  {
+    "date": "2024-10-04T19:41:23.000Z",
+    "word": "visí",
+    "translation": "hangs"
+  },
+  {
+    "date": "2024-10-04T19:41:36.000Z",
+    "word": "vlevo",
+    "translation": "on the left"
+  },
+  {
+    "date": "2024-10-04T19:41:51.000Z",
+    "word": "vpravo",
+    "translation": "on the right"
+  },
+  {
+    "date": "2024-10-04T19:42:12.000Z",
+    "word": "vy",
+    "translation": "you (formal)"
+  },
+  {
+    "date": "2024-10-04T19:42:24.000Z",
+    "word": "vzadu",
+    "translation": "at the back"
+  },
+  {
+    "date": "2024-10-04T19:42:34.000Z",
+    "word": "zelený",
+    "translation": "green"
+  },
+  {
+    "date": "2024-10-04T19:42:45.000Z",
+    "word": "žena",
+    "translation": "woman"
+  },
+  {
+    "date": "2024-10-04T19:42:55.000Z",
+    "word": "židle",
+    "translation": "chair"
+  },
+  {
+    "date": "2024-10-04T19:43:12.000Z",
+    "word": "žlutý",
+    "translation": "yellow"
+  },
+  {
     "word": "dům",
     "translation": "house"
   },
