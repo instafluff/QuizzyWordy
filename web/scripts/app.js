@@ -161,11 +161,8 @@ function selectOption(buttonElement, selectedOption) {
 
   // Proceed to the next question after a short delay (500 ms)
   setTimeout(() => {
-    // Reset button states
-    optionsButtons.forEach(button => {
-      button.classList.remove('list-group-item-success');
-      button.classList.remove('list-group-item-danger');
-    });
+    // Reset inner state
+    app.innerHTML = ``;
 
     currentQuestionIndex++;
     if (currentQuestionIndex < questions.length) {
