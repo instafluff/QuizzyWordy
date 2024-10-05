@@ -2,7 +2,7 @@
   "name": "Quizzy Wordy",
   "short_name": "Quizzy Wordy",
   "description": "A vocabulary quiz app by Instafluff",
-  "start_url": "./index.html",
+  "start_url": "../index.html",
   "display": "standalone",
   "background_color": "#6200ee",
   "theme_color": "#6200ee",

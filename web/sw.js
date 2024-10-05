@@ -2,12 +2,12 @@
 
 const CACHE_NAME = 'quizzywordy-cache-v1';
 const urlsToCache = [
-  './',
-  './index.html',
-  './web/styles/style.css',
-  './web/scripts/app.js',
-  './web/manifest.json',
-  './web/data/en-cs.json',
+  '../',
+  '../index.html',
+  './styles/style.css',
+  './scripts/app.js',
+  './manifest.json',
+  './data/cs-en.json',
   // Add other language data files as needed
   // Add icons
 ];
