@@ -127,13 +127,6 @@ p.lead {
   text-align: center;
 }
 
-.can-hover .list-group-item:hover {
-  background-color: var(--primary-color);
-  color: var(--on-primary-color);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
 .list-group-item:disabled {
   cursor: not-allowed;
 }
@@ -185,19 +178,9 @@ p.lead {
   margin: var(--small-spacing);
 }
 
-.can-hover .btn:hover {
-  background-color: var(--primary-variant);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
 .btn-secondary {
   background-color: var(--secondary-color);
   color: var(--on-secondary-color);
-}
-
-.can-hover .btn-secondary:hover {
-  background-color: var(--secondary-variant);
 }
 
 /* Alerts */
@@ -237,10 +220,6 @@ p.lead {
   cursor: pointer;
   z-index: 1000;
   transition: transform var(--transition-speed);
-}
-
-.can-hover .dark-mode-toggle:hover {
-  transform: rotate(20deg);
 }
 
 .dark-mode-toggle .material-symbols-outlined {
@@ -286,5 +265,28 @@ body.dark-mode .dark-mode-toggle .material-symbols-outlined {
   .btn {
     font-size: var(--small-font-size);
     padding: var(--small-spacing) var(--medium-spacing);
+  }
+}
+
+@media (hover) {
+  .list-group-item:hover {
+    background-color: var(--primary-color);
+    color: var(--on-primary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .btn:hover {
+    background-color: var(--primary-variant);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .btn-secondary:hover {
+    background-color: var(--secondary-variant);
+  }
+
+  .dark-mode-toggle:hover {
+    transform: rotate(20deg);
   }
 }
