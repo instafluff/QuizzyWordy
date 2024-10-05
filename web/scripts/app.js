@@ -9,6 +9,12 @@ let selectedLanguagePair = '';
 let translationDirection = 'forward';
 
 function init() {
+  // Fix hover issue for iOS
+  var canHover = !(matchMedia('(hover: none)').matches);
+  if (canHover) {
+    document.body.classList.add('can-hover');
+  }
+
   const app = document.getElementById('app');
   app.innerHTML = `
     <div class="container text-center">

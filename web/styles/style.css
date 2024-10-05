@@ -127,7 +127,7 @@ p.lead {
   text-align: center;
 }
 
-.list-group-item:hover {
+.can-hover .list-group-item:hover {
   background-color: var(--primary-color);
   color: var(--on-primary-color);
   transform: translateY(-2px);
@@ -185,7 +185,7 @@ p.lead {
   margin: var(--small-spacing);
 }
 
-.btn:hover {
+.can-hover .btn:hover {
   background-color: var(--primary-variant);
   transform: translateY(-2px);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -196,7 +196,7 @@ p.lead {
   color: var(--on-secondary-color);
 }
 
-.btn-secondary:hover {
+.can-hover .btn-secondary:hover {
   background-color: var(--secondary-variant);
 }
 
@@ -239,7 +239,7 @@ p.lead {
   transition: transform var(--transition-speed);
 }
 
-.dark-mode-toggle:hover {
+.can-hover .dark-mode-toggle:hover {
   transform: rotate(20deg);
 }
 
