@@ -87,7 +87,7 @@
   {
     "date": "2024-10-04T19:20:02.000Z",
     "word": "film",
-    "translation": "film"
+    "translation": "movie"
   },
   {
     "date": "2024-10-04T19:20:51.000Z",
@@ -1298,6 +1298,576 @@
     "date": "2024-10-04T22:48:47.000Z",
     "word": "umět",
     "translation": "to know how to"
+  },
+  {
+    "date": "2024-11-03T20:38:25.000Z",
+    "word": "a",
+    "translation": "and"
+  },
+  {
+    "date": "2024-11-03T20:46:47.000Z",
+    "word": "aby",
+    "translation": "so that, in order to"
+  },
+  {
+    "date": "2024-11-03T20:48:04.000Z",
+    "word": "adresa",
+    "translation": "address"
+  },
+  {
+    "date": "2024-11-03T20:48:18.000Z",
+    "word": "adresát",
+    "translation": "addressee"
+  },
+  {
+    "date": "2024-11-03T20:48:26.000Z",
+    "word": "agentura",
+    "translation": "agency"
+  },
+  {
+    "date": "2024-11-03T20:49:01.000Z",
+    "word": "ahoj!",
+    "translation": "hello! hi! bye!"
+  },
+  {
+    "date": "2024-11-03T20:49:08.000Z",
+    "word": "ale",
+    "translation": "but"
+  },
+  {
+    "date": "2024-11-03T20:49:19.000Z",
+    "word": "alkohol",
+    "translation": "alcohol"
+  },
+  {
+    "date": "2024-11-03T20:49:28.000Z",
+    "word": "ambasáda",
+    "translation": "embassy"
+  },
+  {
+    "date": "2024-11-03T20:49:38.000Z",
+    "word": "anglicky",
+    "translation": "English"
+  },
+  {
+    "date": "2024-11-03T20:49:51.000Z",
+    "word": "Angličan",
+    "translation": "Englishman"
+  },
+  {
+    "date": "2024-11-03T20:50:04.000Z",
+    "word": "Angličanka",
+    "translation": "Englishwoman"
+  },
+  {
+    "date": "2024-11-03T20:50:18.000Z",
+    "word": "angličtina",
+    "translation": "English"
+  },
+  {
+    "date": "2024-11-03T20:50:36.000Z",
+    "word": "Anglie",
+    "translation": "England"
+  },
+  {
+    "date": "2024-11-03T20:50:46.000Z",
+    "word": "ani",
+    "translation": "neither, nor"
+  },
+  {
+    "date": "2024-11-03T20:50:51.000Z",
+    "word": "ano",
+    "translation": "yes"
+  },
+  {
+    "date": "2024-11-03T20:51:00.000Z",
+    "word": "asi",
+    "translation": "maybe, probably"
+  },
+  {
+    "date": "2024-11-03T20:51:15.000Z",
+    "word": "atmosféra",
+    "translation": "atmosphere"
+  },
+  {
+    "date": "2024-11-03T20:51:24.000Z",
+    "word": "autobus",
+    "translation": "bus"
+  },
+  {
+    "date": "2024-11-03T20:51:59.000Z",
+    "word": "autobusový",
+    "translation": "bus (adj)"
+  },
+  {
+    "date": "2024-11-03T20:52:12.000Z",
+    "word": "automat",
+    "translation": "vending machine"
+  },
+  {
+    "date": "2024-11-03T20:52:27.000Z",
+    "word": "(auto)servis",
+    "translation": "car service"
+  },
+  {
+    "date": "2024-11-03T20:52:46.000Z",
+    "word": "až",
+    "translation": "(not) until, as far as"
+  },
+  {
+    "date": "2024-11-03T20:53:26.000Z",
+    "word": "balíček",
+    "translation": "packet"
+  },
+  {
+    "date": "2024-11-03T20:53:34.000Z",
+    "word": "balík",
+    "translation": "parcel"
+  },
+  {
+    "date": "2024-11-03T20:53:44.000Z",
+    "word": "banán",
+    "translation": "banana"
+  },
+  {
+    "date": "2024-11-03T20:53:52.000Z",
+    "word": "banka",
+    "translation": "bank"
+  },
+  {
+    "date": "2024-11-03T20:54:19.000Z",
+    "word": "barevný",
+    "translation": "coloured"
+  },
+  {
+    "date": "2024-11-03T20:54:29.000Z",
+    "word": "barva",
+    "translation": "colour"
+  },
+  {
+    "date": "2024-11-03T20:56:53.000Z",
+    "word": "bát se",
+    "translation": "to be afraid"
+  },
+  {
+    "date": "2024-11-03T20:57:47.000Z",
+    "word": "bavit se",
+    "translation": "to enjoy"
+  },
+  {
+    "date": "2024-11-03T20:58:05.000Z",
+    "word": "bazén",
+    "translation": "swimming pool"
+  },
+  {
+    "date": "2024-11-03T20:59:53.000Z",
+    "word": "běhat",
+    "translation": "to run"
+  },
+  {
+    "date": "2024-11-03T21:00:03.000Z",
+    "word": "během",
+    "translation": "during"
+  },
+  {
+    "date": "2024-11-03T21:00:42.000Z",
+    "word": "benzin",
+    "translation": "petrol/gasoline"
+  },
+  {
+    "date": "2024-11-03T21:01:11.000Z",
+    "word": "benzinová pumpa",
+    "translation": "petrol/gas station"
+  },
+  {
+    "date": "2024-11-03T21:01:23.000Z",
+    "word": "bez",
+    "translation": "without"
+  },
+  {
+    "date": "2024-11-03T21:01:35.000Z",
+    "word": "biftek",
+    "translation": "beef (steak)"
+  },
+  {
+    "date": "2024-11-03T21:01:49.000Z",
+    "word": "bílý",
+    "translation": "white"
+  },
+  {
+    "date": "2024-11-03T21:02:02.000Z",
+    "word": "blahopřát",
+    "translation": "to congratulate"
+  },
+  {
+    "date": "2024-11-03T21:04:33.000Z",
+    "word": "blanket",
+    "translation": "form"
+  },
+  {
+    "date": "2024-11-03T21:04:42.000Z",
+    "word": "blízko",
+    "translation": "near"
+  },
+  {
+    "date": "2024-11-03T21:04:59.000Z",
+    "word": "blíž(e)",
+    "translation": "closer"
+  },
+  {
+    "date": "2024-11-03T21:05:10.000Z",
+    "word": "bohužel",
+    "translation": "unfortunately"
+  },
+  {
+    "date": "2024-11-03T21:05:24.000Z",
+    "word": "bolest",
+    "translation": "pain, hurt, ache"
+  },
+  {
+    "date": "2024-11-03T21:05:35.000Z",
+    "word": "bolet",
+    "translation": "to hurt"
+  },
+  {
+    "date": "2024-11-03T21:05:42.000Z",
+    "word": "boty",
+    "translation": "shoes"
+  },
+  {
+    "date": "2024-11-03T21:05:51.000Z",
+    "word": "bouřka",
+    "translation": "storm"
+  },
+  {
+    "date": "2024-11-03T21:06:13.000Z",
+    "word": "bramborový",
+    "translation": "potato (adj)"
+  },
+  {
+    "date": "2024-11-03T21:06:22.000Z",
+    "word": "brambory",
+    "translation": "potatoes"
+  },
+  {
+    "date": "2024-11-03T21:06:59.000Z",
+    "word": "brát",
+    "translation": "to take"
+  },
+  {
+    "date": "2024-11-03T21:07:08.000Z",
+    "word": "bratr",
+    "translation": "brother"
+  },
+  {
+    "date": "2024-11-03T21:07:30.000Z",
+    "word": "bratranec",
+    "translation": "cousin (M)"
+  },
+  {
+    "date": "2024-11-03T21:07:45.000Z",
+    "word": "brigáda",
+    "translation": "temporary work"
+  },
+  {
+    "date": "2024-11-03T21:07:53.000Z",
+    "word": "brýle",
+    "translation": "glasses"
+  },
+  {
+    "date": "2024-11-03T21:08:14.000Z",
+    "word": "brzo/brzy",
+    "translation": "soon, early"
+  },
+  {
+    "date": "2024-11-03T21:08:27.000Z",
+    "word": "březen",
+    "translation": "March"
+  },
+  {
+    "date": "2024-11-03T21:08:35.000Z",
+    "word": "břicho",
+    "translation": "stomach"
+  },
+  {
+    "date": "2024-11-03T21:09:43.000Z",
+    "word": "buď(te) tak laskav, laskava",
+    "translation": "will you be so kind (as to)"
+  },
+  {
+    "date": "2024-11-03T21:09:54.000Z",
+    "word": "budík",
+    "translation": "alarm clock"
+  },
+  {
+    "date": "2024-11-03T21:10:26.000Z",
+    "word": "bydlet",
+    "translation": "to live/reside"
+  },
+  {
+    "date": "2024-11-03T21:10:38.000Z",
+    "word": "byt",
+    "translation": "flat/apartment"
+  },
+  {
+    "date": "2024-11-03T21:10:45.000Z",
+    "word": "být",
+    "translation": "to be"
+  },
+  {
+    "date": "2024-11-03T21:10:57.000Z",
+    "word": "celkem",
+    "translation": "altogether, total, overall"
+  },
+  {
+    "date": "2024-11-03T21:11:53.000Z",
+    "word": "celní",
+    "translation": "customs (adj)"
+  },
+  {
+    "date": "2024-11-03T21:12:08.000Z",
+    "word": "celnice",
+    "translation": "customs office"
+  },
+  {
+    "date": "2024-11-03T21:12:19.000Z",
+    "word": "celník",
+    "translation": "customs official"
+  },
+  {
+    "date": "2024-11-03T21:12:29.000Z",
+    "word": "celý",
+    "translation": "whole"
+  },
+  {
+    "date": "2024-11-03T21:12:36.000Z",
+    "word": "cena",
+    "translation": "price"
+  },
+  {
+    "date": "2024-11-03T21:12:43.000Z",
+    "word": "centrum",
+    "translation": "centre"
+  },
+  {
+    "date": "2024-11-03T21:12:55.000Z",
+    "word": "cesta",
+    "translation": "way, road, journey"
+  },
+  {
+    "date": "2024-11-03T21:13:03.000Z",
+    "word": "cestovat",
+    "translation": "to travel"
+  },
+  {
+    "date": "2024-11-03T21:13:18.000Z",
+    "word": "cestovní kancelař",
+    "translation": "travel agency"
+  },
+  {
+    "date": "2024-11-03T21:13:28.000Z",
+    "word": "cigareta",
+    "translation": "cigarette"
+  },
+  {
+    "date": "2024-11-03T21:13:38.000Z",
+    "word": "cítit se",
+    "translation": "to feel"
+  },
+  {
+    "date": "2024-11-03T21:13:44.000Z",
+    "word": "citron",
+    "translation": "lemon"
+  },
+  {
+    "date": "2024-11-03T21:13:58.000Z",
+    "word": "citronový",
+    "translation": "lemon (adj)"
+  },
+  {
+    "date": "2024-11-03T21:14:09.000Z",
+    "word": "cizina",
+    "translation": "foreign country"
+  },
+  {
+    "date": "2024-11-03T21:14:23.000Z",
+    "word": "cizinec",
+    "translation": "foreigner (M)"
+  },
+  {
+    "date": "2024-11-03T21:14:34.000Z",
+    "word": "cizinka",
+    "translation": "foreigner (F)"
+  },
+  {
+    "date": "2024-11-03T21:14:48.000Z",
+    "word": "clo",
+    "translation": "customs"
+  },
+  {
+    "date": "2024-11-03T21:14:53.000Z",
+    "word": "co",
+    "translation": "what"
+  },
+  {
+    "date": "2024-11-03T21:14:58.000Z",
+    "word": "cukr",
+    "translation": "sugar"
+  },
+  {
+    "date": "2024-11-03T21:15:11.000Z",
+    "word": "cvičení",
+    "translation": "exercise"
+  },
+  {
+    "date": "2024-11-03T21:15:18.000Z",
+    "word": "čaj",
+    "translation": "tea"
+  },
+  {
+    "date": "2024-11-03T21:15:26.000Z",
+    "word": "čas",
+    "translation": "time"
+  },
+  {
+    "date": "2024-11-03T21:15:34.000Z",
+    "word": "časopis",
+    "translation": "magazine"
+  },
+  {
+    "date": "2024-11-03T21:15:44.000Z",
+    "word": "často",
+    "translation": "often"
+  },
+  {
+    "date": "2024-11-03T21:17:49.000Z",
+    "word": "Čech",
+    "translation": "Czech person (M)"
+  },
+  {
+    "date": "2024-11-03T21:18:06.000Z",
+    "word": "Čechy",
+    "translation": "Bohemia"
+  },
+  {
+    "date": "2024-11-03T21:18:22.000Z",
+    "word": "čekárna",
+    "translation": "waiting room"
+  },
+  {
+    "date": "2024-11-03T21:18:38.000Z",
+    "word": "čekat na",
+    "translation": "to wait for"
+  },
+  {
+    "date": "2024-11-03T21:18:48.000Z",
+    "word": "černý",
+    "translation": "black"
+  },
+  {
+    "date": "2024-11-03T21:18:57.000Z",
+    "word": "červen",
+    "translation": "June"
+  },
+  {
+    "date": "2024-11-03T21:19:07.000Z",
+    "word": "červenec",
+    "translation": "July"
+  },
+  {
+    "date": "2024-11-03T21:19:15.000Z",
+    "word": "červený",
+    "translation": "red"
+  },
+  {
+    "date": "2024-11-03T21:19:37.000Z",
+    "word": "Česká republika",
+    "translation": "Czech Republic"
+  },
+  {
+    "date": "2024-11-03T21:20:18.000Z",
+    "word": "česko-anglický",
+    "translation": "Czech-English"
+  },
+  {
+    "date": "2024-11-03T21:20:38.000Z",
+    "word": "česky",
+    "translation": "Czech (adv)"
+  },
+  {
+    "date": "2024-11-03T21:20:53.000Z",
+    "word": "český",
+    "translation": "Czech (adj)"
+  },
+  {
+    "date": "2024-11-03T21:21:10.000Z",
+    "word": "Češka",
+    "translation": "Czech person (F)"
+  },
+  {
+    "date": "2024-11-03T21:21:22.000Z",
+    "word": "čeština",
+    "translation": "Czech language"
+  },
+  {
+    "date": "2024-11-03T21:21:45.000Z",
+    "word": "čí?",
+    "translation": "whose?"
+  },
+  {
+    "date": "2024-11-03T21:21:55.000Z",
+    "word": "čím",
+    "translation": "by what?"
+  },
+  {
+    "date": "2024-11-03T21:22:05.000Z",
+    "word": "číslo",
+    "translation": "number"
+  },
+  {
+    "date": "2024-11-03T21:22:15.000Z",
+    "word": "číst",
+    "translation": "to read"
+  },
+  {
+    "date": "2024-11-03T21:22:28.000Z",
+    "word": "číšník",
+    "translation": "waiter"
+  },
+  {
+    "date": "2024-11-03T21:22:52.000Z",
+    "word": "člověk",
+    "translation": "person (human being)"
+  },
+  {
+    "date": "2024-11-03T21:23:04.000Z",
+    "word": "čokoláda",
+    "translation": "chocolate"
+  },
+  {
+    "date": "2024-11-03T21:23:22.000Z",
+    "word": "čokoládový",
+    "translation": "chocolate (adj)"
+  },
+  {
+    "date": "2024-11-03T21:23:33.000Z",
+    "word": "čtvrt",
+    "translation": "quarter"
+  },
+  {
+    "date": "2024-11-03T21:23:47.000Z",
+    "word": "čtvrť",
+    "translation": "district, quarter"
+  },
+  {
+    "date": "2024-11-03T21:23:58.000Z",
+    "word": "čtvrtek",
+    "translation": "Thursday"
+  },
+  {
+    "date": "2024-11-03T21:24:12.000Z",
+    "word": "čtyřikrát",
+    "translation": "four times"
   },
   {
     "word": "dům",
