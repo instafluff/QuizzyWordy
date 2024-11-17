@@ -1502,7 +1502,7 @@
   {
     "date": "2024-11-03T21:04:33.000Z",
     "word": "blanket",
-    "translation": "form"
+    "translation": "form, blank"
   },
   {
     "date": "2024-11-03T21:04:42.000Z",
@@ -1868,6 +1868,3958 @@
     "date": "2024-11-03T21:24:12.000Z",
     "word": "čtyřikrát",
     "translation": "four times"
+  },
+  {
+    "date": "2024-11-04T19:21:01.000Z",
+    "word": "dál(e)",
+    "translation": "further"
+  },
+  {
+    "date": "2024-11-04T19:21:22.000Z",
+    "word": "dál(e)!",
+    "translation": "come in!"
+  },
+  {
+    "date": "2024-11-04T19:21:31.000Z",
+    "word": "daleko",
+    "translation": "far"
+  },
+  {
+    "date": "2024-11-04T19:21:47.000Z",
+    "word": "dálnice",
+    "translation": "highway, motorway",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:22:19.000Z",
+    "word": "dálniční",
+    "translation": "highway, motorway (adj)"
+  },
+  {
+    "date": "2024-11-04T19:22:35.000Z",
+    "word": "další",
+    "translation": "next, another"
+  },
+  {
+    "date": "2024-11-04T19:22:49.000Z",
+    "word": "dárek",
+    "translation": "gift",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:23:00.000Z",
+    "word": "dát",
+    "translation": "to give"
+  },
+  {
+    "date": "2024-11-04T19:23:22.000Z",
+    "word": "dát si",
+    "translation": "to have"
+  },
+  {
+    "date": "2024-11-04T19:24:26.000Z",
+    "word": "datum",
+    "translation": "date",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T19:25:22.000Z",
+    "word": "datum narození",
+    "translation": "date of birth",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T19:25:41.000Z",
+    "word": "dcera",
+    "translation": "daughter",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:26:04.000Z",
+    "word": "děkovat za",
+    "translation": "to thank for"
+  },
+  {
+    "date": "2024-11-04T19:26:24.000Z",
+    "word": "děkuju",
+    "translation": "I thank, thanks"
+  },
+  {
+    "date": "2024-11-04T19:26:35.000Z",
+    "word": "dělat",
+    "translation": "to do, to make"
+  },
+  {
+    "date": "2024-11-04T19:26:53.000Z",
+    "word": "déle",
+    "translation": "longer (adv)"
+  },
+  {
+    "date": "2024-11-04T19:27:08.000Z",
+    "word": "delegát",
+    "translation": "delegate",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:27:28.000Z",
+    "word": "delší",
+    "translation": "longer (adj)"
+  },
+  {
+    "date": "2024-11-04T19:27:42.000Z",
+    "word": "den",
+    "translation": "day",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:27:52.000Z",
+    "word": "denní",
+    "translation": "daily"
+  },
+  {
+    "date": "2024-11-04T19:28:02.000Z",
+    "word": "denně",
+    "translation": "a day"
+  },
+  {
+    "date": "2024-11-04T19:28:17.000Z",
+    "word": "deštník",
+    "translation": "umbrella",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:28:31.000Z",
+    "word": "detail",
+    "translation": "detail",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:28:51.000Z",
+    "word": "děvče",
+    "translation": "girl",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T19:29:18.000Z",
+    "word": "dezert",
+    "translation": "dessert",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:29:33.000Z",
+    "word": "dieta",
+    "translation": "diet",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:29:56.000Z",
+    "word": "dík!",
+    "translation": "thanks!"
+  },
+  {
+    "date": "2024-11-04T19:30:08.000Z",
+    "word": "diktovat",
+    "translation": "to dictate"
+  },
+  {
+    "date": "2024-11-04T19:30:43.000Z",
+    "word": "diskutovat o",
+    "translation": "to discuss about"
+  },
+  {
+    "date": "2024-11-04T19:31:14.000Z",
+    "word": "dítě",
+    "translation": "child",
+    "Gender": "N",
+    "Notes": "děti (F)"
+  },
+  {
+    "date": "2024-11-04T19:31:35.000Z",
+    "word": "divadlo",
+    "translation": "theatre",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T19:31:50.000Z",
+    "word": "dívat se na",
+    "translation": "to look at"
+  },
+  {
+    "date": "2024-11-04T19:32:01.000Z",
+    "word": "dívka",
+    "translation": "girl",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:32:13.000Z",
+    "word": "dlouho",
+    "translation": "long (adv)"
+  },
+  {
+    "date": "2024-11-04T19:32:29.000Z",
+    "word": "dlouhý",
+    "translation": "long (adj)"
+  },
+  {
+    "date": "2024-11-04T19:32:52.000Z",
+    "word": "dnes",
+    "translation": "today",
+    "Notes": "dneska"
+  },
+  {
+    "date": "2024-11-04T19:33:02.000Z",
+    "word": "do",
+    "translation": "to, into"
+  },
+  {
+    "date": "2024-11-04T19:33:20.000Z",
+    "word": "dobrý",
+    "translation": "good"
+  },
+  {
+    "date": "2024-11-04T19:33:30.000Z",
+    "word": "dobře",
+    "translation": "well"
+  },
+  {
+    "date": "2024-11-04T19:34:05.000Z",
+    "word": "docela",
+    "translation": "quite (nice)"
+  },
+  {
+    "date": "2024-11-04T19:34:52.000Z",
+    "word": "dohodnout se s",
+    "translation": "to come to an agreement"
+  },
+  {
+    "date": "2024-11-04T19:35:10.000Z",
+    "word": "dohromady",
+    "translation": "altogether, together"
+  },
+  {
+    "date": "2024-11-04T19:35:22.000Z",
+    "word": "dojít pro",
+    "translation": "to go and fetch"
+  },
+  {
+    "date": "2024-11-04T19:35:54.000Z",
+    "word": "dojít",
+    "translation": "to run out of",
+    "Notes": "docházet"
+  },
+  {
+    "date": "2024-11-04T19:36:16.000Z",
+    "word": "doktor",
+    "translation": "doctor (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:36:30.000Z",
+    "word": "doktorka",
+    "translation": "doctor (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:36:37.000Z",
+    "word": "dole",
+    "translation": "down, below, downstairs"
+  },
+  {
+    "date": "2024-11-04T19:36:49.000Z",
+    "word": "doleva",
+    "translation": "to the left"
+  },
+  {
+    "date": "2024-11-04T19:37:16.000Z",
+    "word": "dolít",
+    "translation": "to fill up",
+    "Notes": "doleju"
+  },
+  {
+    "date": "2024-11-04T19:38:38.000Z",
+    "word": "dolů",
+    "translation": "down, under (adv)"
+  },
+  {
+    "date": "2024-11-04T19:39:18.000Z",
+    "word": "doma",
+    "translation": "at home"
+  },
+  {
+    "date": "2024-11-04T19:39:33.000Z",
+    "word": "domů",
+    "translation": "(to) home"
+  },
+  {
+    "date": "2024-11-04T19:40:02.000Z",
+    "word": "donést",
+    "translation": "to bring",
+    "Notes": "donesu, donášet"
+  },
+  {
+    "date": "2024-11-04T19:40:25.000Z",
+    "word": "donutit",
+    "translation": "to force",
+    "Notes": "donutit k, nutit"
+  },
+  {
+    "date": "2024-11-04T19:40:56.000Z",
+    "word": "doplnit",
+    "translation": "to complete, to fill in",
+    "Notes": "doplňovat"
+  },
+  {
+    "date": "2024-11-04T19:41:11.000Z",
+    "word": "dopis",
+    "translation": "letter",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:41:24.000Z",
+    "word": "dopisní",
+    "translation": "letter (adj)"
+  },
+  {
+    "date": "2024-11-04T19:41:39.000Z",
+    "word": "dopoledne",
+    "translation": "morning, in the morning",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T19:41:56.000Z",
+    "word": "doporučeně",
+    "translation": "by registered post"
+  },
+  {
+    "date": "2024-11-04T19:42:15.000Z",
+    "word": "doporučovat",
+    "translation": "to recommend",
+    "Notes": "doporučit"
+  },
+  {
+    "date": "2024-11-04T19:42:33.000Z",
+    "word": "doprava",
+    "translation": "to the right"
+  },
+  {
+    "date": "2024-11-04T19:42:57.000Z",
+    "word": "doprava",
+    "translation": "traffic, transport",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:43:14.000Z",
+    "word": "dopravní policie",
+    "translation": "traffic police",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:43:31.000Z",
+    "word": "doprostřed",
+    "translation": "to the middle"
+  },
+  {
+    "date": "2024-11-04T19:43:42.000Z",
+    "word": "dopředu",
+    "translation": "to the front"
+  },
+  {
+    "date": "2024-11-04T19:43:51.000Z",
+    "word": "dort",
+    "translation": "cake",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:44:02.000Z",
+    "word": "dost",
+    "translation": "enough"
+  },
+  {
+    "date": "2024-11-04T19:44:19.000Z",
+    "word": "dostat",
+    "translation": "to get",
+    "Notes": "dostanu, dostávat"
+  },
+  {
+    "date": "2024-11-04T19:44:35.000Z",
+    "word": "dostat se",
+    "translation": "to get (somewhere)"
+  },
+  {
+    "date": "2024-11-04T19:44:47.000Z",
+    "word": "doufat",
+    "translation": "to hope"
+  },
+  {
+    "date": "2024-11-04T19:45:03.000Z",
+    "word": "dovolená",
+    "translation": "holiday",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:45:22.000Z",
+    "word": "dovolený",
+    "translation": "permitted"
+  },
+  {
+    "date": "2024-11-04T19:45:33.000Z",
+    "word": "dozadu",
+    "translation": "to the back"
+  },
+  {
+    "date": "2024-11-04T19:46:39.000Z",
+    "word": "do(z)vědět se",
+    "translation": "to get to know",
+    "Notes": "do(z)vím se, do(z)vědí se, do(z)vídat se"
+  },
+  {
+    "date": "2024-11-04T19:46:49.000Z",
+    "word": "drahý",
+    "translation": "expensive"
+  },
+  {
+    "date": "2024-11-04T19:47:13.000Z",
+    "word": "drobné",
+    "translation": "change (money)"
+  },
+  {
+    "date": "2024-11-04T19:47:30.000Z",
+    "word": "dřív(e)",
+    "translation": "earlier, soon"
+  },
+  {
+    "date": "2024-11-04T19:48:46.000Z",
+    "word": "dřív(e) než",
+    "translation": "before"
+  },
+  {
+    "date": "2024-11-04T19:48:57.000Z",
+    "word": "duben",
+    "translation": "April",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:49:19.000Z",
+    "word": "duch",
+    "translation": "spirit, ghost",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:49:32.000Z",
+    "word": "důležitý",
+    "translation": "important"
+  },
+  {
+    "date": "2024-11-04T19:49:47.000Z",
+    "word": "dům",
+    "translation": "house",
+    "Gender": "M",
+    "Notes": "domy"
+  },
+  {
+    "date": "2024-11-04T19:50:04.000Z",
+    "word": "Dunaj",
+    "translation": "the Danube",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:50:15.000Z",
+    "word": "dvakrát",
+    "translation": "twice"
+  },
+  {
+    "date": "2024-11-04T19:50:30.000Z",
+    "word": "dveře",
+    "translation": "door",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:50:53.000Z",
+    "word": "dvoulůžkový (pokoj)",
+    "translation": "double (room)"
+  },
+  {
+    "date": "2024-11-04T19:51:05.000Z",
+    "word": "džem",
+    "translation": "jam",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:51:16.000Z",
+    "word": "džus",
+    "translation": "juice",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:51:28.000Z",
+    "word": "ekonomie",
+    "translation": "economics",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:51:41.000Z",
+    "word": "espreso",
+    "translation": "espresso",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T19:51:52.000Z",
+    "word": "Evropa",
+    "translation": "Europe",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:52:01.000Z",
+    "word": "evropský",
+    "translation": "European"
+  },
+  {
+    "date": "2024-11-04T19:52:11.000Z",
+    "word": "fajn",
+    "translation": "fine, great"
+  },
+  {
+    "date": "2024-11-04T19:52:23.000Z",
+    "word": "fakulta",
+    "translation": "faculty, college",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:52:35.000Z",
+    "word": "film",
+    "translation": "movie",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:52:50.000Z",
+    "word": "filozofie",
+    "translation": "philosophy",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:53:00.000Z",
+    "word": "firma",
+    "translation": "firm, company",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:54:12.000Z",
+    "word": "formulář",
+    "translation": "form",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:54:29.000Z",
+    "word": "fotbal",
+    "translation": "football, soccer",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:54:37.000Z",
+    "word": "foukat",
+    "translation": "to blow"
+  },
+  {
+    "date": "2024-11-04T19:54:51.000Z",
+    "word": "francouzsky",
+    "translation": "French (adv)"
+  },
+  {
+    "date": "2024-11-04T19:55:02.000Z",
+    "word": "fronta",
+    "translation": "queue",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:55:30.000Z",
+    "word": "garáž",
+    "translation": "garage",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:55:40.000Z",
+    "word": "gramatika",
+    "translation": "grammar",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:55:49.000Z",
+    "word": "hala",
+    "translation": "hall",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:56:03.000Z",
+    "word": "havárie",
+    "translation": "traffic accident",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:56:15.000Z",
+    "word": "hezký",
+    "translation": "nice, pretty"
+  },
+  {
+    "date": "2024-11-04T19:56:28.000Z",
+    "word": "historie",
+    "translation": "history",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:56:38.000Z",
+    "word": "hlad",
+    "translation": "hunger",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T19:56:48.000Z",
+    "word": "hlava",
+    "translation": "head",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:56:59.000Z",
+    "word": "hlavní",
+    "translation": "chief, main"
+  },
+  {
+    "date": "2024-11-04T19:57:13.000Z",
+    "word": "hledat",
+    "translation": "to seek, to look for"
+  },
+  {
+    "date": "2024-11-04T19:57:25.000Z",
+    "word": "hned",
+    "translation": "immediately, at once"
+  },
+  {
+    "date": "2024-11-04T19:57:41.000Z",
+    "word": "hnědý",
+    "translation": "brown"
+  },
+  {
+    "date": "2024-11-04T19:58:06.000Z",
+    "word": "hodina",
+    "translation": "hour, class",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:58:19.000Z",
+    "word": "hodinky",
+    "translation": "wrist watch",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:58:35.000Z",
+    "word": "hodit",
+    "translation": "to throw",
+    "Notes": "házet"
+  },
+  {
+    "date": "2024-11-04T19:58:45.000Z",
+    "word": "hodit se",
+    "translation": "to suit"
+  },
+  {
+    "date": "2024-11-04T19:58:56.000Z",
+    "word": "hodně",
+    "translation": "many, much"
+  },
+  {
+    "date": "2024-11-04T19:59:10.000Z",
+    "word": "hodný",
+    "translation": "good, nice, kind"
+  },
+  {
+    "date": "2024-11-04T19:59:27.000Z",
+    "word": "horečka",
+    "translation": "fever",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T19:59:41.000Z",
+    "word": "horko",
+    "translation": "hot (adv)"
+  },
+  {
+    "date": "2024-11-04T19:59:52.000Z",
+    "word": "horký",
+    "translation": "hot (adj)"
+  },
+  {
+    "date": "2024-11-04T20:00:06.000Z",
+    "word": "horší",
+    "translation": "worse"
+  },
+  {
+    "date": "2024-11-04T20:00:18.000Z",
+    "word": "hory",
+    "translation": "mountains",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:00:32.000Z",
+    "word": "hospoda",
+    "translation": "pub",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:00:51.000Z",
+    "word": "host",
+    "translation": "guest",
+    "Gender": "M",
+    "Notes": "hosté"
+  },
+  {
+    "date": "2024-11-04T20:01:03.000Z",
+    "word": "hotově",
+    "translation": "in cash"
+  },
+  {
+    "date": "2024-11-04T20:01:13.000Z",
+    "word": "hotový",
+    "translation": "ready"
+  },
+  {
+    "date": "2024-11-04T20:01:32.000Z",
+    "word": "houska",
+    "translation": "(type of) bread roll",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:01:46.000Z",
+    "word": "hovor",
+    "translation": "talk, call",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:02:01.000Z",
+    "word": "hovořit o",
+    "translation": "to speak about"
+  },
+  {
+    "date": "2024-11-04T20:02:10.000Z",
+    "word": "hra",
+    "translation": "game",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:02:23.000Z",
+    "word": "hrad",
+    "translation": "castle",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:02:43.000Z",
+    "word": "hranolky",
+    "translation": "chips, french fries",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:03:04.000Z",
+    "word": "hrát",
+    "translation": "to play",
+    "Notes": "hrát na, hraju, zahrát si"
+  },
+  {
+    "date": "2024-11-04T20:03:18.000Z",
+    "word": "hrníček",
+    "translation": "mug",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:03:27.000Z",
+    "word": "hudba",
+    "translation": "music",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:03:37.000Z",
+    "word": "chata",
+    "translation": "cottage",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:03:45.000Z",
+    "word": "chemie",
+    "translation": "chemistry",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:04:06.000Z",
+    "word": "chléb, chleba",
+    "translation": "bread",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:04:24.000Z",
+    "word": "chlebíček",
+    "translation": "sandwich (Czech)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:05:09.000Z",
+    "word": "chodit",
+    "translation": "to go (on foot)"
+  },
+  {
+    "date": "2024-11-04T20:05:24.000Z",
+    "word": "chřipka",
+    "translation": "influenza",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:05:41.000Z",
+    "word": "chřipkový",
+    "translation": "influenza (adj)"
+  },
+  {
+    "date": "2024-11-04T20:05:54.000Z",
+    "word": "chtít",
+    "translation": "to want",
+    "Notes": "chci"
+  },
+  {
+    "date": "2024-11-04T20:06:30.000Z",
+    "word": "chudák!",
+    "translation": "poor man!",
+    "Gender": "M",
+    "Notes": "chudáček! (poor thing)"
+  },
+  {
+    "date": "2024-11-04T20:07:01.000Z",
+    "word": "chuť",
+    "translation": "taste, appetite",
+    "Gender": "F",
+    "Notes": "dobrou chuť (enjoy your meal)"
+  },
+  {
+    "date": "2024-11-04T20:07:23.000Z",
+    "word": "chutnat",
+    "translation": "to taste, to like"
+  },
+  {
+    "date": "2024-11-04T20:07:35.000Z",
+    "word": "chvíle",
+    "translation": "moment",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:07:47.000Z",
+    "word": "chybět",
+    "translation": "to miss, to be missing"
+  },
+  {
+    "date": "2024-11-04T20:08:17.000Z",
+    "word": "chytrý",
+    "translation": "bright, smart"
+  },
+  {
+    "date": "2024-11-04T20:08:33.000Z",
+    "word": "i",
+    "translation": "as well, and",
+    "Notes": "a taky"
+  },
+  {
+    "date": "2024-11-04T20:08:43.000Z",
+    "word": "i když",
+    "translation": "even though"
+  },
+  {
+    "date": "2024-11-04T20:08:52.000Z",
+    "word": "informace",
+    "translation": "information",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:09:03.000Z",
+    "word": "injekce",
+    "translation": "injection",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:09:14.000Z",
+    "word": "internet",
+    "translation": "internet, web",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:09:30.000Z",
+    "word": "internetový",
+    "translation": "internet (adj)"
+  },
+  {
+    "date": "2024-11-04T20:09:40.000Z",
+    "word": "Irsko",
+    "translation": "Ireland",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T20:09:50.000Z",
+    "word": "já",
+    "translation": "I"
+  },
+  {
+    "date": "2024-11-04T20:10:03.000Z",
+    "word": "jablečný",
+    "translation": "apple (adj)"
+  },
+  {
+    "date": "2024-11-04T20:10:14.000Z",
+    "word": "jablko",
+    "translation": "apple",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T20:10:32.000Z",
+    "word": "jahodový",
+    "translation": "strawberry (adj)"
+  },
+  {
+    "date": "2024-11-04T20:11:00.000Z",
+    "word": "jahoda",
+    "translation": "strawberry",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:11:07.000Z",
+    "word": "jak",
+    "translation": "how"
+  },
+  {
+    "date": "2024-11-04T20:11:16.000Z",
+    "word": "jakmile",
+    "translation": "as soon as"
+  },
+  {
+    "date": "2024-11-04T20:11:26.000Z",
+    "word": "jako",
+    "translation": "as, like"
+  },
+  {
+    "date": "2024-11-04T20:11:38.000Z",
+    "word": "jaký",
+    "translation": "what, what sort of"
+  },
+  {
+    "date": "2024-11-04T20:12:08.000Z",
+    "word": "jaro",
+    "translation": "spring",
+    "Gender": "N",
+    "Notes": "na jaře (in spring)"
+  },
+  {
+    "date": "2024-11-04T20:12:23.000Z",
+    "word": "jazyk",
+    "translation": "language, tongue",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:12:43.000Z",
+    "word": "jednání",
+    "translation": "negotiation(s)",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T20:13:16.000Z",
+    "word": "jednat s",
+    "translation": "to negotiate with"
+  },
+  {
+    "date": "2024-11-04T20:13:29.000Z",
+    "word": "jednoduchý",
+    "translation": "simple"
+  },
+  {
+    "date": "2024-11-04T20:13:56.000Z",
+    "word": "jednolůžkový (pokoj)",
+    "translation": "single (room)"
+  },
+  {
+    "date": "2024-11-04T20:14:38.000Z",
+    "word": "jednou",
+    "translation": "once, one day",
+    "Notes": "ještě jednou (once more)"
+  },
+  {
+    "date": "2024-11-04T20:15:17.000Z",
+    "word": "jeho, její, jejich",
+    "translation": "his, her, their"
+  },
+  {
+    "date": "2024-11-04T20:15:34.000Z",
+    "word": "jen, jenom",
+    "translation": "only"
+  },
+  {
+    "date": "2024-11-04T20:15:49.000Z",
+    "word": "jestli",
+    "translation": "if, whether"
+  },
+  {
+    "date": "2024-11-04T20:16:02.000Z",
+    "word": "jestli(že)",
+    "translation": "if"
+  },
+  {
+    "date": "2024-11-04T20:16:19.000Z",
+    "word": "ještě, ještě ne",
+    "translation": "still, not yet"
+  },
+  {
+    "date": "2024-11-04T20:16:34.000Z",
+    "word": "jet",
+    "translation": "to go",
+    "Notes": "jedu, pojedu"
+  },
+  {
+    "date": "2024-11-04T20:16:50.000Z",
+    "word": "jezdit",
+    "translation": "to go (by vehicle)"
+  },
+  {
+    "date": "2024-11-04T20:17:05.000Z",
+    "word": "jídelní lístek",
+    "translation": "menu",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:17:16.000Z",
+    "word": "jídlo",
+    "translation": "food, meal",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T20:17:27.000Z",
+    "word": "jih",
+    "translation": "south",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-04T20:17:43.000Z",
+    "word": "jiný",
+    "translation": "other"
+  },
+  {
+    "date": "2024-11-04T20:18:12.000Z",
+    "word": "jíst",
+    "translation": "to eat",
+    "Notes": "jím, jedí, sníst, sním, snědí"
+  },
+  {
+    "date": "2024-11-04T20:19:05.000Z",
+    "word": "jít",
+    "translation": "to go (on foot)",
+    "Notes": "jdu"
+  },
+  {
+    "date": "2024-11-04T20:19:19.000Z",
+    "word": "jízdenka",
+    "translation": "ticket",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-04T20:22:31.000Z",
+    "word": "jižní",
+    "translation": "southern"
+  },
+  {
+    "date": "2024-11-04T20:22:49.000Z",
+    "word": "jméno",
+    "translation": "name",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-04T20:23:23.000Z",
+    "word": "jmenovat se",
+    "translation": "to be called",
+    "Notes": "jmenuju se"
+  },
+  {
+    "date": "2024-11-04T20:23:50.000Z",
+    "word": "jo",
+    "translation": "yes (informal)"
+  },
+  {
+    "date": "2024-11-15T21:53:32.000Z",
+    "word": "k, ke",
+    "translation": "to, towards"
+  },
+  {
+    "date": "2024-11-15T21:53:48.000Z",
+    "word": "kabát",
+    "translation": "coat",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T21:54:13.000Z",
+    "word": "kabina",
+    "translation": "cabin",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T21:54:27.000Z",
+    "word": "kafe",
+    "translation": "coffee",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-15T21:55:14.000Z",
+    "word": "kalhoty",
+    "translation": "trousers, pants",
+    "Gender": "F",
+    "Notes": "Plural"
+  },
+  {
+    "date": "2024-11-15T21:55:45.000Z",
+    "word": "kam",
+    "translation": "where"
+  },
+  {
+    "date": "2024-11-15T21:56:15.000Z",
+    "word": "kamarád",
+    "translation": "friend (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T21:56:31.000Z",
+    "word": "kamarádka",
+    "translation": "friend (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T21:56:53.000Z",
+    "word": "kancelář",
+    "translation": "office",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T21:57:13.000Z",
+    "word": "kapesník",
+    "translation": "handkerchief",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T21:58:46.000Z",
+    "word": "karta platební",
+    "translation": "credit card",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T21:59:24.000Z",
+    "word": "kartáček na zuby",
+    "translation": "toothbrush",
+    "Gender": "M",
+    "Notes": "zubní kartáček"
+  },
+  {
+    "date": "2024-11-15T21:59:53.000Z",
+    "word": "kašlat",
+    "translation": "to cough",
+    "Notes": "kašlu, zakašlat"
+  },
+  {
+    "date": "2024-11-15T22:00:08.000Z",
+    "word": "káva",
+    "translation": "coffee",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:01:58.000Z",
+    "word": "kavárna",
+    "translation": "café",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:02:33.000Z",
+    "word": "každý",
+    "translation": "every, each",
+    "Notes": "každá, každé"
+  },
+  {
+    "date": "2024-11-15T22:02:57.000Z",
+    "word": "kde",
+    "translation": "where"
+  },
+  {
+    "date": "2024-11-15T22:04:29.000Z",
+    "word": "kdo",
+    "translation": "who"
+  },
+  {
+    "date": "2024-11-15T22:05:07.000Z",
+    "word": "kdy",
+    "translation": "when"
+  },
+  {
+    "date": "2024-11-15T22:05:30.000Z",
+    "word": "kdyby",
+    "translation": "if, in case"
+  },
+  {
+    "date": "2024-11-15T22:06:07.000Z",
+    "word": "kdykoli(v)",
+    "translation": "whenever"
+  },
+  {
+    "date": "2024-11-15T22:06:25.000Z",
+    "word": "když",
+    "translation": "when, if"
+  },
+  {
+    "date": "2024-11-15T22:06:42.000Z",
+    "word": "kilometr",
+    "translation": "kilometer",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:06:53.000Z",
+    "word": "kino",
+    "translation": "cinema",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-15T22:07:13.000Z",
+    "word": "klíč",
+    "translation": "key",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:07:31.000Z",
+    "word": "klidný",
+    "translation": "calm",
+    "Notes": "klidná, klidné"
+  },
+  {
+    "date": "2024-11-15T22:07:44.000Z",
+    "word": "knedlík",
+    "translation": "dumpling",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:07:56.000Z",
+    "word": "kniha",
+    "translation": "book",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:08:05.000Z",
+    "word": "knihovna",
+    "translation": "library",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:08:16.000Z",
+    "word": "koberec",
+    "translation": "carpet",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:08:38.000Z",
+    "word": "kolega",
+    "translation": "colleague (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:08:56.000Z",
+    "word": "kolegyně",
+    "translation": "colleague (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:09:14.000Z",
+    "word": "kolej",
+    "translation": "student residence, dorm",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:09:24.000Z",
+    "word": "kolem",
+    "translation": "around, past"
+  },
+  {
+    "date": "2024-11-15T22:09:48.000Z",
+    "word": "kolik",
+    "translation": "how much/many"
+  },
+  {
+    "date": "2024-11-15T22:10:10.000Z",
+    "word": "kolo jízdní",
+    "translation": "bicycle",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-15T22:10:26.000Z",
+    "word": "končit",
+    "translation": "to finish, to end",
+    "Notes": "skončit"
+  },
+  {
+    "date": "2024-11-15T22:10:43.000Z",
+    "word": "konec",
+    "translation": "end",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:11:31.000Z",
+    "word": "kontrola",
+    "translation": "control, check",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:11:48.000Z",
+    "word": "kontrolovat",
+    "translation": "to check",
+    "Notes": "zkontrolovat"
+  },
+  {
+    "date": "2024-11-15T22:12:01.000Z",
+    "word": "koruna",
+    "translation": "crown",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:12:10.000Z",
+    "word": "kostel",
+    "translation": "church",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:12:21.000Z",
+    "word": "koš",
+    "translation": "basket",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:12:32.000Z",
+    "word": "košile",
+    "translation": "shirt",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:12:54.000Z",
+    "word": "koupit",
+    "translation": "to buy",
+    "Notes": "kupovat"
+  },
+  {
+    "date": "2024-11-15T22:13:10.000Z",
+    "word": "kouřit",
+    "translation": "to smoke"
+  },
+  {
+    "date": "2024-11-15T22:13:35.000Z",
+    "word": "kraj",
+    "translation": "side, edge",
+    "Gender": "M",
+    "Notes": "na kraji (on the side, edge)"
+  },
+  {
+    "date": "2024-11-15T22:13:55.000Z",
+    "word": "krásně",
+    "translation": "beautifully"
+  },
+  {
+    "date": "2024-11-15T22:14:20.000Z",
+    "word": "krásný",
+    "translation": "beautiful",
+    "Notes": "krásná, krásné"
+  },
+  {
+    "date": "2024-11-15T22:14:33.000Z",
+    "word": "krém",
+    "translation": "cream",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:15:02.000Z",
+    "word": "krev",
+    "translation": "blood",
+    "Gender": "F",
+    "Notes": "krve"
+  },
+  {
+    "date": "2024-11-15T22:15:22.000Z",
+    "word": "krk",
+    "translation": "throat, neck",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:15:35.000Z",
+    "word": "kromě",
+    "translation": "except, besides"
+  },
+  {
+    "date": "2024-11-15T22:15:56.000Z",
+    "word": "křeslo",
+    "translation": "armchair",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-15T22:16:16.000Z",
+    "word": "který",
+    "translation": "who, which",
+    "Notes": "která, které"
+  },
+  {
+    "date": "2024-11-15T22:16:37.000Z",
+    "word": "kudy",
+    "translation": "which way?"
+  },
+  {
+    "date": "2024-11-15T22:16:50.000Z",
+    "word": "kufr",
+    "translation": "suitcase",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:17:25.000Z",
+    "word": "kuchyň",
+    "translation": "kitchen",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:17:39.000Z",
+    "word": "kulturní",
+    "translation": "cultural"
+  },
+  {
+    "date": "2024-11-15T22:18:12.000Z",
+    "word": "kupovat",
+    "translation": "to buy (impf)",
+    "Notes": "koupit"
+  },
+  {
+    "date": "2024-11-15T22:18:24.000Z",
+    "word": "kurz",
+    "translation": "course",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:18:47.000Z",
+    "word": "kuře",
+    "translation": "chicken(s)",
+    "Gender": "N",
+    "Notes": "kuřata"
+  },
+  {
+    "date": "2024-11-15T22:19:10.000Z",
+    "word": "kuřecí",
+    "translation": "chicken (adj)"
+  },
+  {
+    "date": "2024-11-15T22:19:20.000Z",
+    "word": "květen",
+    "translation": "May",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-15T22:19:31.000Z",
+    "word": "květina",
+    "translation": "flower",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-15T22:19:41.000Z",
+    "word": "kvůli",
+    "translation": "because of"
+  },
+  {
+    "date": "2024-11-16T13:33:04.000Z",
+    "word": "laciný",
+    "translation": "cheap",
+    "Notes": "laciná, laciné"
+  },
+  {
+    "date": "2024-11-16T13:33:26.000Z",
+    "word": "láhev",
+    "translation": "bottle",
+    "Gender": "F",
+    "Notes": "láhve"
+  },
+  {
+    "date": "2024-11-16T13:33:39.000Z",
+    "word": "lampa",
+    "translation": "lamp",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:33:51.000Z",
+    "word": "láska",
+    "translation": "love",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:34:15.000Z",
+    "word": "laskavý",
+    "translation": "kind, nice",
+    "Notes": "laskavá, laskavé"
+  },
+  {
+    "date": "2024-11-16T13:34:30.000Z",
+    "word": "lavička",
+    "translation": "bench",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:34:40.000Z",
+    "word": "leden",
+    "translation": "January",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:34:57.000Z",
+    "word": "lehnout si",
+    "translation": "to lie down",
+    "Notes": "lehat si"
+  },
+  {
+    "date": "2024-11-16T13:35:11.000Z",
+    "word": "lék",
+    "translation": "medicine",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:36:28.000Z",
+    "word": "lékárna",
+    "translation": "chemist's, pharmacy",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:36:49.000Z",
+    "word": "lékař",
+    "translation": "doctor (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:37:00.000Z",
+    "word": "lekce",
+    "translation": "lesson",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:37:22.000Z",
+    "word": "lektor",
+    "translation": "instructor (M), language teacher (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:37:46.000Z",
+    "word": "lektorka",
+    "translation": "instructor (F), language teacher (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:38:31.000Z",
+    "word": "lépe",
+    "translation": "better (adv)"
+  },
+  {
+    "date": "2024-11-16T13:38:46.000Z",
+    "word": "lepší",
+    "translation": "better (adj)"
+  },
+  {
+    "date": "2024-11-16T13:39:02.000Z",
+    "word": "les",
+    "translation": "forest, wood",
+    "Gender": "M",
+    "Notes": "lesa"
+  },
+  {
+    "date": "2024-11-16T13:39:18.000Z",
+    "word": "letadlo",
+    "translation": "airplane",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:39:30.000Z",
+    "word": "letecky",
+    "translation": "by airmail"
+  },
+  {
+    "date": "2024-11-16T13:39:50.000Z",
+    "word": "letenka",
+    "translation": "flight ticket",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:40:11.000Z",
+    "word": "letět",
+    "translation": "to fly",
+    "Notes": "poletím (I will fly)"
+  },
+  {
+    "date": "2024-11-16T13:40:25.000Z",
+    "word": "letiště",
+    "translation": "airport",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:40:37.000Z",
+    "word": "letní",
+    "translation": "summer (adj)"
+  },
+  {
+    "date": "2024-11-16T13:40:48.000Z",
+    "word": "léto",
+    "translation": "summer",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:40:57.000Z",
+    "word": "letos",
+    "translation": "this year"
+  },
+  {
+    "date": "2024-11-16T13:41:21.000Z",
+    "word": "levný",
+    "translation": "inexpensive, cheap",
+    "Notes": "levná, levné"
+  },
+  {
+    "date": "2024-11-16T13:41:34.000Z",
+    "word": "ležet",
+    "translation": "to lie"
+  },
+  {
+    "date": "2024-11-16T13:42:09.000Z",
+    "word": "líbit se",
+    "translation": "to please",
+    "Notes": "líbí se mi (I like, it pleases me)"
+  },
+  {
+    "date": "2024-11-16T13:42:28.000Z",
+    "word": "lidé",
+    "translation": "people",
+    "Gender": "M",
+    "Notes": "lidi"
+  },
+  {
+    "date": "2024-11-16T13:42:49.000Z",
+    "word": "líný",
+    "translation": "lazy",
+    "Notes": "líná, líné"
+  },
+  {
+    "date": "2024-11-16T13:43:02.000Z",
+    "word": "lístek",
+    "translation": "ticket",
+    "Gender": "M",
+    "Notes": "lístky"
+  },
+  {
+    "date": "2024-11-16T13:43:15.000Z",
+    "word": "listopad",
+    "translation": "November",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:43:27.000Z",
+    "word": "literatura",
+    "translation": "literature",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:45:44.000Z",
+    "word": "líto",
+    "translation": "sorry",
+    "Notes": "je mi líto (I'm sorry)"
+  },
+  {
+    "date": "2024-11-16T13:45:58.000Z",
+    "word": "loď",
+    "translation": "ship, boat",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:46:24.000Z",
+    "word": "loučit se s",
+    "translation": "to say goodbye (to)",
+    "Notes": "rozloučit se"
+  },
+  {
+    "date": "2024-11-16T13:46:34.000Z",
+    "word": "lyže",
+    "translation": "skis",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:46:49.000Z",
+    "word": "lyžovat",
+    "translation": "to ski"
+  },
+  {
+    "date": "2024-11-16T13:47:05.000Z",
+    "word": "lžíce",
+    "translation": "spoon",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:47:18.000Z",
+    "word": "lžička",
+    "translation": "teaspoon",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:47:51.000Z",
+    "word": "Maďarsko",
+    "translation": "Hungary",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:48:03.000Z",
+    "word": "málo",
+    "translation": "little, few"
+  },
+  {
+    "date": "2024-11-16T13:48:22.000Z",
+    "word": "malý",
+    "translation": "small",
+    "Notes": "malá, malé"
+  },
+  {
+    "date": "2024-11-16T13:48:42.000Z",
+    "word": "maminka",
+    "translation": "mom",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:48:56.000Z",
+    "word": "manžel",
+    "translation": "husband",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:49:06.000Z",
+    "word": "manželka",
+    "translation": "wife",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:49:17.000Z",
+    "word": "mapa",
+    "translation": "map",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:49:30.000Z",
+    "word": "máslo",
+    "translation": "butter",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:49:43.000Z",
+    "word": "matematika",
+    "translation": "mathematics",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:49:59.000Z",
+    "word": "materiál",
+    "translation": "material",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:50:07.000Z",
+    "word": "matka",
+    "translation": "mother",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:50:59.000Z",
+    "word": "maturita",
+    "translation": "graduation, leaving exam",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:51:22.000Z",
+    "word": "mávat na",
+    "translation": "to wave (at)",
+    "Notes": "zamávat"
+  },
+  {
+    "date": "2024-11-16T13:51:37.000Z",
+    "word": "méně",
+    "translation": "less, fewer"
+  },
+  {
+    "date": "2024-11-16T13:51:56.000Z",
+    "word": "měnit",
+    "translation": "to exchange",
+    "Notes": "vyměnit"
+  },
+  {
+    "date": "2024-11-16T13:52:10.000Z",
+    "word": "menší",
+    "translation": "smaller"
+  },
+  {
+    "date": "2024-11-16T13:53:09.000Z",
+    "word": "měsíc",
+    "translation": "month; moon",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:53:48.000Z",
+    "word": "měsíčně",
+    "translation": "a month, monthly (adv)"
+  },
+  {
+    "date": "2024-11-16T13:53:57.000Z",
+    "word": "město",
+    "translation": "city",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:54:06.000Z",
+    "word": "metr",
+    "translation": "meter",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:54:24.000Z",
+    "word": "mezi",
+    "translation": "between, among"
+  },
+  {
+    "date": "2024-11-16T13:54:35.000Z",
+    "word": "milion",
+    "translation": "million",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:55:10.000Z",
+    "word": "milý",
+    "translation": "dear, nice, kind",
+    "Notes": "milá, milé"
+  },
+  {
+    "date": "2024-11-16T13:55:24.000Z",
+    "word": "minerálka",
+    "translation": "mineral water",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:56:14.000Z",
+    "word": "minulý",
+    "translation": "last, past",
+    "Notes": "minulá, minulé"
+  },
+  {
+    "date": "2024-11-16T13:56:23.000Z",
+    "word": "minuta",
+    "translation": "minute",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:56:50.000Z",
+    "word": "místenka",
+    "translation": "seat-reservation ticket",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:57:06.000Z",
+    "word": "místnost",
+    "translation": "room",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T13:57:19.000Z",
+    "word": "místo",
+    "translation": "place",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:57:30.000Z",
+    "word": "mít",
+    "translation": "to have",
+    "Notes": "mám"
+  },
+  {
+    "date": "2024-11-16T13:57:45.000Z",
+    "word": "mít rád",
+    "translation": "to like"
+  },
+  {
+    "date": "2024-11-16T13:57:58.000Z",
+    "word": "mladý",
+    "translation": "young",
+    "Notes": "mladá, mladé"
+  },
+  {
+    "date": "2024-11-16T13:58:07.000Z",
+    "word": "mléko",
+    "translation": "milk",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T13:59:00.000Z",
+    "word": "mluvit",
+    "translation": "to speak",
+    "Notes": "mluvit s ... o ... (to speak with somebody about)"
+  },
+  {
+    "date": "2024-11-16T13:59:10.000Z",
+    "word": "mnoho",
+    "translation": "much, many"
+  },
+  {
+    "date": "2024-11-16T13:59:29.000Z",
+    "word": "mobil",
+    "translation": "mobile (phone), cell phone",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T13:59:39.000Z",
+    "word": "moc",
+    "translation": "many, much"
+  },
+  {
+    "date": "2024-11-16T13:59:49.000Z",
+    "word": "mockrát",
+    "translation": "many times"
+  },
+  {
+    "date": "2024-11-16T14:00:09.000Z",
+    "word": "moct",
+    "translation": "to be able",
+    "Notes": "můžu (I can)"
+  },
+  {
+    "date": "2024-11-16T14:00:19.000Z",
+    "word": "moderní",
+    "translation": "modern"
+  },
+  {
+    "date": "2024-11-16T14:00:30.000Z",
+    "word": "modrý",
+    "translation": "blue",
+    "Notes": "modrá, modré"
+  },
+  {
+    "date": "2024-11-16T14:00:41.000Z",
+    "word": "moře",
+    "translation": "sea",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:01:00.000Z",
+    "word": "most",
+    "translation": "bridge",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:01:12.000Z",
+    "word": "motor",
+    "translation": "engine, motor",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:01:38.000Z",
+    "word": "motorest",
+    "translation": "road house, rest stop",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:02:00.000Z",
+    "word": "možné",
+    "translation": "maybe, possible",
+    "Notes": "je to možné (it is possible)"
+  },
+  {
+    "date": "2024-11-16T14:02:31.000Z",
+    "word": "mrak",
+    "translation": "cloud",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:03:06.000Z",
+    "word": "můj, moje (má, mé)",
+    "translation": "my, mine"
+  },
+  {
+    "date": "2024-11-16T14:03:25.000Z",
+    "word": "muset",
+    "translation": "to have to, must",
+    "Notes": "musím (I must)"
+  },
+  {
+    "date": "2024-11-16T14:03:43.000Z",
+    "word": "muzeum",
+    "translation": "museum",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:03:53.000Z",
+    "word": "muž",
+    "translation": "man",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:04:00.000Z",
+    "word": "my",
+    "translation": "we"
+  },
+  {
+    "date": "2024-11-16T14:04:10.000Z",
+    "word": "mýdlo",
+    "translation": "soap",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:04:36.000Z",
+    "word": "myslet na",
+    "translation": "to think about"
+  },
+  {
+    "date": "2024-11-16T14:05:12.000Z",
+    "word": "myslet si (něco) o",
+    "translation": "to think (something) about, have an opinion"
+  },
+  {
+    "date": "2024-11-16T14:05:48.000Z",
+    "word": "mýt se/si",
+    "translation": "to wash oneself",
+    "Notes": "myju se (I wash myself), umýt se"
+  },
+  {
+    "date": "2024-11-16T14:06:14.000Z",
+    "word": "na",
+    "translation": "at, on"
+  },
+  {
+    "date": "2024-11-16T14:06:24.000Z",
+    "word": "na konci",
+    "translation": "at the end"
+  },
+  {
+    "date": "2024-11-16T14:06:34.000Z",
+    "word": "na shledanou",
+    "translation": "good bye"
+  },
+  {
+    "date": "2024-11-16T14:06:49.000Z",
+    "word": "na začátku",
+    "translation": "at the beginning"
+  },
+  {
+    "date": "2024-11-16T14:07:09.000Z",
+    "word": "nabízet",
+    "translation": "to offer",
+    "Notes": "nabídnout"
+  },
+  {
+    "date": "2024-11-16T14:07:20.000Z",
+    "word": "nad, nade",
+    "translation": "over, above"
+  },
+  {
+    "date": "2024-11-16T14:25:06.000Z",
+    "word": "nádherný",
+    "translation": "wonderful, gorgeous",
+    "Notes": "nádherná, nádherné"
+  },
+  {
+    "date": "2024-11-16T14:25:30.000Z",
+    "word": "nadiktovat",
+    "translation": "to dictate",
+    "Notes": "diktovat"
+  },
+  {
+    "date": "2024-11-16T14:25:59.000Z",
+    "word": "nádobí",
+    "translation": "dishes",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:26:49.000Z",
+    "word": "nádraží",
+    "translation": "station, train station",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:27:41.000Z",
+    "word": "nádrž",
+    "translation": "tank, reservoir",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:27:56.000Z",
+    "word": "nahlas",
+    "translation": "loudly"
+  },
+  {
+    "date": "2024-11-16T14:28:15.000Z",
+    "word": "nahoru",
+    "translation": "up(wards)"
+  },
+  {
+    "date": "2024-11-16T14:28:56.000Z",
+    "word": "nahoře",
+    "translation": "up, overhead"
+  },
+  {
+    "date": "2024-11-16T14:29:08.000Z",
+    "word": "najednou",
+    "translation": "suddenly"
+  },
+  {
+    "date": "2024-11-16T14:29:42.000Z",
+    "word": "najíst se",
+    "translation": "to eat",
+    "Notes": "najím se (I'll eat)"
+  },
+  {
+    "date": "2024-11-16T14:30:16.000Z",
+    "word": "najít",
+    "translation": "to find",
+    "Notes": "najdu (I'll find)"
+  },
+  {
+    "date": "2024-11-16T14:30:30.000Z",
+    "word": "nakonec",
+    "translation": "in the end"
+  },
+  {
+    "date": "2024-11-16T14:30:52.000Z",
+    "word": "nákupní centrum",
+    "translation": "shopping center",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:31:04.000Z",
+    "word": "nakupovat",
+    "translation": "to shop around",
+    "Notes": "nakoupit"
+  },
+  {
+    "date": "2024-11-16T14:31:14.000Z",
+    "word": "nálada",
+    "translation": "mood",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:31:28.000Z",
+    "word": "nalepit",
+    "translation": "to stick on",
+    "Notes": "lepit"
+  },
+  {
+    "date": "2024-11-16T14:31:56.000Z",
+    "word": "náměstí",
+    "translation": "square, plaza",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:32:13.000Z",
+    "word": "naobědvat se",
+    "translation": "to have lunch"
+  },
+  {
+    "date": "2024-11-16T14:32:25.000Z",
+    "word": "nápad",
+    "translation": "idea",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:32:54.000Z",
+    "word": "napít se",
+    "translation": "to have a drink",
+    "Notes": "piju se (I will have a drink)"
+  },
+  {
+    "date": "2024-11-16T14:33:09.000Z",
+    "word": "naplánovat",
+    "translation": "to plan",
+    "Notes": "plánovat"
+  },
+  {
+    "date": "2024-11-16T14:33:35.000Z",
+    "word": "nápoj",
+    "translation": "beverage, drink",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:33:49.000Z",
+    "word": "naposledy",
+    "translation": "for the last time"
+  },
+  {
+    "date": "2024-11-16T14:34:06.000Z",
+    "word": "naproti",
+    "translation": "opposite"
+  },
+  {
+    "date": "2024-11-16T14:34:25.000Z",
+    "word": "napsat",
+    "translation": "to write",
+    "Notes": "napíšu (I will write), psát, píšu"
+  },
+  {
+    "date": "2024-11-16T14:34:49.000Z",
+    "word": "narodit se",
+    "translation": "to be born"
+  },
+  {
+    "date": "2024-11-16T14:35:03.000Z",
+    "word": "národní",
+    "translation": "national"
+  },
+  {
+    "date": "2024-11-16T14:35:17.000Z",
+    "word": "narozeniny",
+    "translation": "birthday",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:36:21.000Z",
+    "word": "nastoupit",
+    "translation": "to enter, to board, get on",
+    "Notes": "nastoupit do práce (to enter a job)"
+  },
+  {
+    "date": "2024-11-16T14:36:47.000Z",
+    "word": "nástupiště",
+    "translation": "platform",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:37:11.000Z",
+    "word": "nastupovat",
+    "translation": "to get in/on",
+    "Notes": "nastoupit"
+  },
+  {
+    "date": "2024-11-16T14:37:30.000Z",
+    "word": "náš, naše",
+    "translation": "our"
+  },
+  {
+    "date": "2024-11-16T14:37:41.000Z",
+    "word": "natankovat",
+    "translation": "to fill up"
+  },
+  {
+    "date": "2024-11-16T14:40:49.000Z",
+    "word": "navečeřet se",
+    "translation": "to have supper/dinner"
+  },
+  {
+    "date": "2024-11-16T14:41:24.000Z",
+    "word": "návrh",
+    "translation": "proposal, suggestion",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:41:53.000Z",
+    "word": "navrhovat",
+    "translation": "to propose, to suggest",
+    "Notes": "navrhnout"
+  },
+  {
+    "date": "2024-11-16T14:42:16.000Z",
+    "word": "návštěva",
+    "translation": "visit",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:42:52.000Z",
+    "word": "navštěvovat",
+    "translation": "to visit",
+    "Notes": "navštívit"
+  },
+  {
+    "date": "2024-11-16T14:43:00.000Z",
+    "word": "ne",
+    "translation": "no"
+  },
+  {
+    "date": "2024-11-16T14:43:13.000Z",
+    "word": "nebe",
+    "translation": "sky, heaven",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:43:22.000Z",
+    "word": "nebo",
+    "translation": "or"
+  },
+  {
+    "date": "2024-11-16T14:43:53.000Z",
+    "word": "něco",
+    "translation": "something"
+  },
+  {
+    "date": "2024-11-16T14:44:05.000Z",
+    "word": "neděle",
+    "translation": "Sunday",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:44:37.000Z",
+    "word": "nech(te) si chutnat",
+    "translation": "enjoy your meal"
+  },
+  {
+    "date": "2024-11-16T14:45:36.000Z",
+    "word": "nějak",
+    "translation": "somehow"
+  },
+  {
+    "date": "2024-11-16T14:46:10.000Z",
+    "word": "nějaký",
+    "translation": "some",
+    "Notes": "nějaká, nějaké"
+  },
+  {
+    "date": "2024-11-16T14:46:26.000Z",
+    "word": "nejdřív(e)",
+    "translation": "first of all"
+  },
+  {
+    "date": "2024-11-16T14:46:43.000Z",
+    "word": "nejvyšší",
+    "translation": "highest, tallest"
+  },
+  {
+    "date": "2024-11-16T14:47:07.000Z",
+    "word": "někam",
+    "translation": "somewhere (to)"
+  },
+  {
+    "date": "2024-11-16T14:48:06.000Z",
+    "word": "někde",
+    "translation": "somewhere, some place"
+  },
+  {
+    "date": "2024-11-16T14:48:21.000Z",
+    "word": "někdo",
+    "translation": "somebody"
+  },
+  {
+    "date": "2024-11-16T14:48:45.000Z",
+    "word": "někdy",
+    "translation": "sometimes, sometime"
+  },
+  {
+    "date": "2024-11-16T14:49:20.000Z",
+    "word": "některý",
+    "translation": "some",
+    "Notes": "některá, některé"
+  },
+  {
+    "date": "2024-11-16T14:49:38.000Z",
+    "word": "Německo",
+    "translation": "Germany",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T14:49:55.000Z",
+    "word": "německy",
+    "translation": "German (adv)"
+  },
+  {
+    "date": "2024-11-16T14:50:11.000Z",
+    "word": "nemocnice",
+    "translation": "hospital",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:50:28.000Z",
+    "word": "nemocný",
+    "translation": "ill, sick",
+    "Notes": "nemocná, nemocné"
+  },
+  {
+    "date": "2024-11-16T14:51:08.000Z",
+    "word": "nerad",
+    "translation": "not gladly, grudgingly",
+    "Notes": "nerada, nerado"
+  },
+  {
+    "date": "2024-11-16T14:52:29.000Z",
+    "word": "nervózní",
+    "translation": "nervous, bad-tempered"
+  },
+  {
+    "date": "2024-11-16T14:53:20.000Z",
+    "word": "nést",
+    "translation": "to carry",
+    "Notes": "nesu (I carry)"
+  },
+  {
+    "date": "2024-11-16T14:53:52.000Z",
+    "word": "než, dřív(e) než",
+    "translation": "than, before"
+  },
+  {
+    "date": "2024-11-16T14:54:00.000Z",
+    "word": "nic",
+    "translation": "nothing"
+  },
+  {
+    "date": "2024-11-16T14:54:12.000Z",
+    "word": "nijak",
+    "translation": "in no way"
+  },
+  {
+    "date": "2024-11-16T14:54:25.000Z",
+    "word": "nikam",
+    "translation": "nowhere (to)"
+  },
+  {
+    "date": "2024-11-16T14:54:36.000Z",
+    "word": "nikde",
+    "translation": "nowhere, no place"
+  },
+  {
+    "date": "2024-11-16T14:54:50.000Z",
+    "word": "nikdo",
+    "translation": "nobody"
+  },
+  {
+    "date": "2024-11-16T14:54:59.000Z",
+    "word": "nikdy",
+    "translation": "never"
+  },
+  {
+    "date": "2024-11-16T14:55:10.000Z",
+    "word": "noc",
+    "translation": "night",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:55:22.000Z",
+    "word": "noha",
+    "translation": "leg, foot",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:55:49.000Z",
+    "word": "normálně",
+    "translation": "by ordinary post; normally"
+  },
+  {
+    "date": "2024-11-16T14:56:00.000Z",
+    "word": "noviny",
+    "translation": "newspaper",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:56:20.000Z",
+    "word": "nový",
+    "translation": "new",
+    "Notes": "nová, nové"
+  },
+  {
+    "date": "2024-11-16T14:56:29.000Z",
+    "word": "nudit se",
+    "translation": "to be bored"
+  },
+  {
+    "date": "2024-11-16T14:56:44.000Z",
+    "word": "nula",
+    "translation": "none, zero",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:57:20.000Z",
+    "word": "nutit",
+    "translation": "to force",
+    "Notes": "nutit k (to force somebody to), donutit"
+  },
+  {
+    "date": "2024-11-16T14:57:34.000Z",
+    "word": "nutný",
+    "translation": "necessary",
+    "Notes": "nutná, nutné"
+  },
+  {
+    "date": "2024-11-16T14:57:50.000Z",
+    "word": "nůž",
+    "translation": "knife",
+    "Gender": "M",
+    "Notes": "nože"
+  },
+  {
+    "date": "2024-11-16T14:58:21.000Z",
+    "word": "o",
+    "translation": "about"
+  },
+  {
+    "date": "2024-11-16T14:58:46.000Z",
+    "word": "oba",
+    "translation": "both (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T14:59:21.000Z",
+    "word": "obě",
+    "translation": "both (F+N)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T14:59:35.000Z",
+    "word": "obálka",
+    "translation": "envelope",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:00:04.000Z",
+    "word": "období",
+    "translation": "period, term, season",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T15:00:14.000Z",
+    "word": "oběd",
+    "translation": "lunch",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:00:33.000Z",
+    "word": "obědvat",
+    "translation": "to have lunch",
+    "Notes": "naobědvat se"
+  },
+  {
+    "date": "2024-11-16T15:01:02.000Z",
+    "word": "obejít",
+    "translation": "to go around",
+    "Notes": "obejdu (I will go around), obcházet"
+  },
+  {
+    "date": "2024-11-16T15:01:15.000Z",
+    "word": "obchod",
+    "translation": "shop, business",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:01:33.000Z",
+    "word": "obchodní",
+    "translation": "business (adj)"
+  },
+  {
+    "date": "2024-11-16T15:01:50.000Z",
+    "word": "obchodní dům",
+    "translation": "department store",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:02:02.000Z",
+    "word": "obchodovat s",
+    "translation": "to do business with"
+  },
+  {
+    "date": "2024-11-16T15:02:19.000Z",
+    "word": "objednávat",
+    "translation": "to order",
+    "Notes": "objednat"
+  },
+  {
+    "date": "2024-11-16T15:02:53.000Z",
+    "word": "objednávka",
+    "translation": "order",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:03:09.000Z",
+    "word": "oblek",
+    "translation": "dress, suit",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:03:32.000Z",
+    "word": "oblékat se",
+    "translation": "to dress",
+    "Notes": "obléknout se"
+  },
+  {
+    "date": "2024-11-16T15:04:11.000Z",
+    "word": "obraz",
+    "translation": "picture, image, painting",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:04:23.000Z",
+    "word": "obsazeno",
+    "translation": "busy, occupied"
+  },
+  {
+    "date": "2024-11-16T15:04:41.000Z",
+    "word": "obsazený",
+    "translation": "occupied",
+    "Notes": "obsazená, obsazené"
+  },
+  {
+    "date": "2024-11-16T15:04:56.000Z",
+    "word": "obvykle",
+    "translation": "usually"
+  },
+  {
+    "date": "2024-11-16T15:05:10.000Z",
+    "word": "obyčejně",
+    "translation": "by ordinary post"
+  },
+  {
+    "date": "2024-11-16T15:05:28.000Z",
+    "word": "obývací pokoj",
+    "translation": "living room",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:05:55.000Z",
+    "word": "obyvatel",
+    "translation": "inhabitant",
+    "Gender": "M",
+    "Notes": "obyvatelé"
+  },
+  {
+    "date": "2024-11-16T15:06:04.000Z",
+    "word": "od, ode",
+    "translation": "from, since"
+  },
+  {
+    "date": "2024-11-16T15:06:26.000Z",
+    "word": "odejít",
+    "translation": "to leave",
+    "Notes": "odejdu, odcházet"
+  },
+  {
+    "date": "2024-11-16T15:06:44.000Z",
+    "word": "odesílatel",
+    "translation": "sender",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:06:55.000Z",
+    "word": "oděvy",
+    "translation": "clothes",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:07:06.000Z",
+    "word": "odjet",
+    "translation": "to leave",
+    "Notes": "odjedu, odjíždět"
+  },
+  {
+    "date": "2024-11-16T15:07:29.000Z",
+    "word": "odkud",
+    "translation": "from where"
+  },
+  {
+    "date": "2024-11-16T15:07:45.000Z",
+    "word": "odletět",
+    "translation": "to fly away",
+    "Notes": "odlétat"
+  },
+  {
+    "date": "2024-11-16T15:07:56.000Z",
+    "word": "odněkud",
+    "translation": "from somewhere"
+  },
+  {
+    "date": "2024-11-16T15:08:05.000Z",
+    "word": "odnikud",
+    "translation": "from nowhere"
+  },
+  {
+    "date": "2024-11-16T15:08:49.000Z",
+    "word": "odpočívat",
+    "translation": "to rest",
+    "Notes": "odpočínout si"
+  },
+  {
+    "date": "2024-11-16T15:09:07.000Z",
+    "word": "odpoledne",
+    "translation": "afternoon, in the afternoon",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T15:10:02.000Z",
+    "word": "odpovídat",
+    "translation": "to answer, to reply",
+    "Notes": "odpovídat na, odpovědět"
+  },
+  {
+    "date": "2024-11-16T15:10:22.000Z",
+    "word": "odtahová služba",
+    "translation": "(car) tow service",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:10:43.000Z",
+    "word": "odvézt",
+    "translation": "to take away",
+    "Notes": "odvezu, odvážet"
+  },
+  {
+    "date": "2024-11-16T15:10:56.000Z",
+    "word": "okno",
+    "translation": "window",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T15:11:11.000Z",
+    "word": "oko",
+    "translation": "eye",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T15:11:44.000Z",
+    "word": "oči",
+    "translation": "eyes",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:12:01.000Z",
+    "word": "okolí",
+    "translation": "surroundings",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T15:12:15.000Z",
+    "word": "olej",
+    "translation": "oil",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:12:27.000Z",
+    "word": "omeleta",
+    "translation": "omelette",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:12:50.000Z",
+    "word": "omlouvat se",
+    "translation": "to apologize for",
+    "Notes": "omlouvat se za, omluvit se"
+  },
+  {
+    "date": "2024-11-16T15:13:15.000Z",
+    "word": "omyl",
+    "translation": "error, mistake",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:13:26.000Z",
+    "word": "on, ona, ono",
+    "translation": "he, she, it"
+  },
+  {
+    "date": "2024-11-16T15:13:38.000Z",
+    "word": "onemocnět",
+    "translation": "to fall ill"
+  },
+  {
+    "date": "2024-11-16T15:13:57.000Z",
+    "word": "opakovat",
+    "translation": "to repeat",
+    "Notes": "zopakovat"
+  },
+  {
+    "date": "2024-11-16T15:14:09.000Z",
+    "word": "opalovat se",
+    "translation": "to sunbathe"
+  },
+  {
+    "date": "2024-11-16T15:14:45.000Z",
+    "word": "oprava",
+    "translation": "repair, correction",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:15:00.000Z",
+    "word": "opravdu",
+    "translation": "really"
+  },
+  {
+    "date": "2024-11-16T15:15:18.000Z",
+    "word": "opravovat",
+    "translation": "to correct",
+    "Notes": "opravit"
+  },
+  {
+    "date": "2024-11-16T15:15:37.000Z",
+    "word": "organizovaný",
+    "translation": "organized",
+    "Notes": "organizovaná, organizované"
+  },
+  {
+    "date": "2024-11-16T15:15:54.000Z",
+    "word": "organizovat",
+    "translation": "to organize",
+    "Notes": "zorganizovat"
+  },
+  {
+    "date": "2024-11-16T15:16:08.000Z",
+    "word": "orloj",
+    "translation": "astronomical clock",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:16:17.000Z",
+    "word": "osoba",
+    "translation": "person",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:16:43.000Z",
+    "word": "osobně",
+    "translation": "personally, in person"
+  },
+  {
+    "date": "2024-11-16T15:16:55.000Z",
+    "word": "osobní",
+    "translation": "personal"
+  },
+  {
+    "date": "2024-11-16T15:17:13.000Z",
+    "word": "ošklivý",
+    "translation": "ugly",
+    "Notes": "ošklivá, ošklivé"
+  },
+  {
+    "date": "2024-11-16T15:17:25.000Z",
+    "word": "otázka",
+    "translation": "question",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T15:17:33.000Z",
+    "word": "otec",
+    "translation": "father",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T15:17:46.000Z",
+    "word": "otevřeno",
+    "translation": "open"
+  },
+  {
+    "date": "2024-11-16T15:18:06.000Z",
+    "word": "otevřít",
+    "translation": "to open",
+    "Notes": "otevřu, ot(e)vírat"
+  },
+  {
+    "date": "2024-11-16T15:18:17.000Z",
+    "word": "ovoce",
+    "translation": "fruit",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T15:18:35.000Z",
+    "word": "ovocný",
+    "translation": "fruit (adj)",
+    "Notes": "ovocná, ovocné"
+  },
+  {
+    "date": "2024-11-16T15:18:46.000Z",
+    "word": "ovšem",
+    "translation": "of course"
+  },
+  {
+    "date": "2024-11-16T23:31:51.000Z",
+    "word": "pacient",
+    "translation": "patient (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:32:08.000Z",
+    "word": "pacientka",
+    "translation": "patient (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:32:20.000Z",
+    "word": "památka",
+    "translation": "monument",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:32:34.000Z",
+    "word": "pán",
+    "translation": "Mr, gentleman",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:32:56.000Z",
+    "word": "paní",
+    "translation": "Mrs, lady",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:33:19.000Z",
+    "word": "papírový",
+    "translation": "paper (adj)",
+    "Notes": "papírová, papírové"
+  },
+  {
+    "date": "2024-11-16T23:33:32.000Z",
+    "word": "papír",
+    "translation": "paper",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:34:04.000Z",
+    "word": "pár",
+    "translation": "a few; couple",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:34:19.000Z",
+    "word": "parkovat",
+    "translation": "to park",
+    "Notes": "zaparkovat"
+  },
+  {
+    "date": "2024-11-16T23:34:35.000Z",
+    "word": "parkoviště",
+    "translation": "parking lot",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:34:50.000Z",
+    "word": "partner",
+    "translation": "partner (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:35:00.000Z",
+    "word": "partnerka",
+    "translation": "partner (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:35:20.000Z",
+    "word": "pas",
+    "translation": "passport",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:35:37.000Z",
+    "word": "pasový",
+    "translation": "passport (adj)",
+    "Notes": "pasová, pasové"
+  },
+  {
+    "date": "2024-11-16T23:35:53.000Z",
+    "word": "pátek",
+    "translation": "Friday",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:36:11.000Z",
+    "word": "patřit",
+    "translation": "to belong"
+  },
+  {
+    "date": "2024-11-16T23:37:00.000Z",
+    "word": "pečeně",
+    "translation": "roast",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:37:42.000Z",
+    "word": "pečený",
+    "translation": "roast (adj), baked, roasted",
+    "Notes": "pečená, pečené"
+  },
+  {
+    "date": "2024-11-16T23:38:10.000Z",
+    "word": "pečivo",
+    "translation": "pastry (incl. bread rolls)",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:38:25.000Z",
+    "word": "peněženka",
+    "translation": "purse, wallet",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:38:44.000Z",
+    "word": "peníze",
+    "translation": "money",
+    "Gender": "M",
+    "Notes": "peněz"
+  },
+  {
+    "date": "2024-11-16T23:39:01.000Z",
+    "word": "pero",
+    "translation": "pen",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:39:11.000Z",
+    "word": "pes",
+    "translation": "dog",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:39:23.000Z",
+    "word": "pěšky",
+    "translation": "on foot"
+  },
+  {
+    "date": "2024-11-16T23:39:41.000Z",
+    "word": "piknikový koš",
+    "translation": "picnic basket",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:40:04.000Z",
+    "word": "pít",
+    "translation": "to drink",
+    "Notes": "piju (I drink), vypít"
+  },
+  {
+    "date": "2024-11-16T23:40:18.000Z",
+    "word": "pití",
+    "translation": "drink",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:40:35.000Z",
+    "word": "pivo",
+    "translation": "beer",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:40:45.000Z",
+    "word": "plán",
+    "translation": "plan",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:41:01.000Z",
+    "word": "plánovat",
+    "translation": "to plan",
+    "Notes": "naplánovat"
+  },
+  {
+    "date": "2024-11-16T23:41:22.000Z",
+    "word": "platit",
+    "translation": "to pay",
+    "Notes": "platit za (to pay for), zaplatit"
+  },
+  {
+    "date": "2024-11-16T23:41:35.000Z",
+    "word": "plavat",
+    "translation": "to swim",
+    "Notes": "plavu (I swim)"
+  },
+  {
+    "date": "2024-11-16T23:42:11.000Z",
+    "word": "plavky",
+    "translation": "swim suit, bathing suit",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:42:24.000Z",
+    "word": "pláž",
+    "translation": "beach",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:42:42.000Z",
+    "word": "plný",
+    "translation": "full",
+    "Notes": "plná, plné"
+  },
+  {
+    "date": "2024-11-16T23:42:54.000Z",
+    "word": "po",
+    "translation": "after"
+  },
+  {
+    "date": "2024-11-16T23:43:43.000Z",
+    "word": "poblahopřát",
+    "translation": "to congratulate",
+    "Notes": "poblahopřát k (to congratulate on), přeju, blahopřát"
+  },
+  {
+    "date": "2024-11-16T23:43:58.000Z",
+    "word": "počasí",
+    "translation": "weather",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:44:19.000Z",
+    "word": "počítač",
+    "translation": "computer",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:44:37.000Z",
+    "word": "počítat",
+    "translation": "to count",
+    "Notes": "spočítat"
+  },
+  {
+    "date": "2024-11-16T23:45:03.000Z",
+    "word": "počkat",
+    "translation": "to wait",
+    "Notes": "počkat na (to wait for), čekat"
+  },
+  {
+    "date": "2024-11-16T23:45:17.000Z",
+    "word": "pod, pode",
+    "translation": "under"
+  },
+  {
+    "date": "2024-11-16T23:45:38.000Z",
+    "word": "poděkovat",
+    "translation": "to thank",
+    "Notes": "poděkovat za (to thank for), děkovat"
+  },
+  {
+    "date": "2024-11-16T23:46:45.000Z",
+    "word": "podepisovat",
+    "translation": "to sign",
+    "Notes": "podepisovat (se), podepsat, podepíšu (I'll sign)"
+  },
+  {
+    "date": "2024-11-16T23:47:32.000Z",
+    "word": "podívat se",
+    "translation": "to look",
+    "Notes": "podívat se na (to look at), dívat se"
+  },
+  {
+    "date": "2024-11-16T23:47:44.000Z",
+    "word": "podle",
+    "translation": "according to"
+  },
+  {
+    "date": "2024-11-16T23:48:06.000Z",
+    "word": "podzim",
+    "translation": "autumn / fall",
+    "Gender": "M",
+    "Notes": "na podzim (in autumn)"
+  },
+  {
+    "date": "2024-11-16T23:48:35.000Z",
+    "word": "pohled",
+    "translation": "postcard, view",
+    "Gender": "M",
+    "Notes": "pohlednice"
+  },
+  {
+    "date": "2024-11-16T23:49:28.000Z",
+    "word": "pojď! pojďte!",
+    "translation": "come!"
+  },
+  {
+    "date": "2024-11-16T23:50:19.000Z",
+    "word": "pojištění zdravotní",
+    "translation": "health insurance",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:51:16.000Z",
+    "word": "pokladna",
+    "translation": "cash register, box office, checkout",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:51:29.000Z",
+    "word": "pokoj",
+    "translation": "room",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:52:18.000Z",
+    "word": "pokračovat",
+    "translation": "to continue, to go on",
+    "Notes": "pokračovat v"
+  },
+  {
+    "date": "2024-11-16T23:52:31.000Z",
+    "word": "pokuta",
+    "translation": "fine, penalty",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:52:41.000Z",
+    "word": "poledne",
+    "translation": "noon",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:52:57.000Z",
+    "word": "polévka",
+    "translation": "soup",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:53:08.000Z",
+    "word": "policie",
+    "translation": "police",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:53:24.000Z",
+    "word": "policista",
+    "translation": "policeman",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:53:40.000Z",
+    "word": "politik",
+    "translation": "politician",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:54:11.000Z",
+    "word": "policistka",
+    "translation": "policewoman",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:54:37.000Z",
+    "word": "politika",
+    "translation": "politics",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:54:56.000Z",
+    "word": "položit",
+    "translation": "to put",
+    "Notes": "pokládat"
+  },
+  {
+    "date": "2024-11-16T23:55:30.000Z",
+    "word": "pomáhat",
+    "translation": "to help",
+    "Notes": "pomoct, pomůžu (I'll help)"
+  },
+  {
+    "date": "2024-11-16T23:56:10.000Z",
+    "word": "pomeranč",
+    "translation": "orange (fruit)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-16T23:56:43.000Z",
+    "word": "pomerančový",
+    "translation": "orange (adj)",
+    "Notes": "pomerančová, pomerančové"
+  },
+  {
+    "date": "2024-11-16T23:57:24.000Z",
+    "word": "pomoct",
+    "translation": "to help",
+    "Notes": "pomůžu (I'll help), pomáhat"
+  },
+  {
+    "date": "2024-11-16T23:57:38.000Z",
+    "word": "pondělí",
+    "translation": "Monday",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-16T23:57:59.000Z",
+    "word": "poradit",
+    "translation": "to advise",
+    "Notes": "radit"
+  },
+  {
+    "date": "2024-11-16T23:58:13.000Z",
+    "word": "porce",
+    "translation": "portion, serving",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:59:15.000Z",
+    "word": "porucha",
+    "translation": "breakdown, disorder, fault",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-16T23:59:38.000Z",
+    "word": "pořád",
+    "translation": "constantly, always"
+  },
+  {
+    "date": "2024-11-17T00:00:49.000Z",
+    "word": "pořádek",
+    "translation": "order, tidiness",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:01:07.000Z",
+    "word": "posadit se",
+    "translation": "to sit down"
+  },
+  {
+    "date": "2024-11-17T00:01:20.000Z",
+    "word": "poschodí",
+    "translation": "floor",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-17T00:01:41.000Z",
+    "word": "posílat",
+    "translation": "to send",
+    "Notes": "poslat, pošlu (I'll send)"
+  },
+  {
+    "date": "2024-11-17T00:02:08.000Z",
+    "word": "poslední",
+    "translation": "last"
+  },
+  {
+    "date": "2024-11-17T00:02:39.000Z",
+    "word": "poslouchat",
+    "translation": "to listen (to)"
+  },
+  {
+    "date": "2024-11-17T00:02:53.000Z",
+    "word": "pospíchat",
+    "translation": "to hurry"
+  },
+  {
+    "date": "2024-11-17T00:03:10.000Z",
+    "word": "postavit",
+    "translation": "to put, to build",
+    "Notes": "stavět"
+  },
+  {
+    "date": "2024-11-17T00:03:18.000Z",
+    "word": "postel",
+    "translation": "bed",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:03:30.000Z",
+    "word": "pošta",
+    "translation": "post office",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:03:48.000Z",
+    "word": "poštovní",
+    "translation": "post(al) (adj)"
+  },
+  {
+    "date": "2024-11-17T00:04:03.000Z",
+    "word": "poštovní schránka",
+    "translation": "letter box",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:04:20.000Z",
+    "word": "potichu",
+    "translation": "still, quietly"
+  },
+  {
+    "date": "2024-11-17T00:04:43.000Z",
+    "word": "potkat (se)",
+    "translation": "to meet",
+    "Notes": "potkávat"
+  },
+  {
+    "date": "2024-11-17T00:04:53.000Z",
+    "word": "potom",
+    "translation": "then",
+    "Notes": "pak"
+  },
+  {
+    "date": "2024-11-17T00:05:17.000Z",
+    "word": "pak",
+    "translation": "then",
+    "Notes": "potom"
+  },
+  {
+    "date": "2024-11-17T00:05:39.000Z",
+    "word": "potraviny",
+    "translation": "groceries, food",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:05:59.000Z",
+    "word": "potrvat",
+    "translation": "to last, to take (some time)",
+    "Notes": "trvat"
+  },
+  {
+    "date": "2024-11-17T00:06:13.000Z",
+    "word": "potřebovat",
+    "translation": "to need"
+  },
+  {
+    "date": "2024-11-17T00:07:02.000Z",
+    "word": "poukázka",
+    "translation": "postal (money) order, voucher, token",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:07:20.000Z",
+    "word": "pověsit",
+    "translation": "to hang",
+    "Notes": "věšet"
+  },
+  {
+    "date": "2024-11-17T00:08:02.000Z",
+    "word": "povídat (si)",
+    "translation": "to talk, to chat",
+    "Notes": "povídat (si) s o (to chat with somebody about)"
+  },
+  {
+    "date": "2024-11-17T00:08:23.000Z",
+    "word": "pozdě",
+    "translation": "late"
+  },
+  {
+    "date": "2024-11-17T00:08:37.000Z",
+    "word": "pozdrav",
+    "translation": "greeting",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:09:17.000Z",
+    "word": "pozdravit",
+    "translation": "to give regards, to greet",
+    "Notes": "pozdravovat od, zdravit"
+  },
+  {
+    "date": "2024-11-17T00:09:49.000Z",
+    "word": "poznat",
+    "translation": "to get to know",
+    "Notes": "znát (to know)"
+  },
+  {
+    "date": "2024-11-17T00:10:14.000Z",
+    "word": "poznávat",
+    "translation": "to meet, to become familiar",
+    "Notes": "poznat"
+  },
+  {
+    "date": "2024-11-17T00:10:26.000Z",
+    "word": "pozor",
+    "translation": "attention"
+  },
+  {
+    "date": "2024-11-17T00:11:12.000Z",
+    "word": "pozvat",
+    "translation": "to invite",
+    "Notes": "pozvu (I'll invite), zvát, zvu"
+  },
+  {
+    "date": "2024-11-17T00:11:26.000Z",
+    "word": "práce",
+    "translation": "work, job",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:11:37.000Z",
+    "word": "pracovat",
+    "translation": "to work"
+  },
+  {
+    "date": "2024-11-17T00:12:20.000Z",
+    "word": "pracovna",
+    "translation": "study, workroom",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:12:32.000Z",
+    "word": "pravda",
+    "translation": "truth",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:13:03.000Z",
+    "word": "právě (teď)",
+    "translation": "just now"
+  },
+  {
+    "date": "2024-11-17T00:13:24.000Z",
+    "word": "právnický",
+    "translation": "legal",
+    "Notes": "právnická, právnické"
+  },
+  {
+    "date": "2024-11-17T00:13:39.000Z",
+    "word": "právník",
+    "translation": "lawyer",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:14:32.000Z",
+    "word": "praxe",
+    "translation": "work experience, practice",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:14:45.000Z",
+    "word": "prázdniny",
+    "translation": "holidays",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:15:18.000Z",
+    "word": "prázdný",
+    "translation": "empty",
+    "Notes": "prázdná, prázdné"
+  },
+  {
+    "date": "2024-11-17T00:15:45.000Z",
+    "word": "pražský",
+    "translation": "Prague (adj)",
+    "Notes": "pražská, pražské"
+  },
+  {
+    "date": "2024-11-17T00:15:55.000Z",
+    "word": "pro",
+    "translation": "for"
+  },
+  {
+    "date": "2024-11-17T00:16:13.000Z",
+    "word": "procestovat",
+    "translation": "to tour through"
+  },
+  {
+    "date": "2024-11-17T00:17:53.000Z",
+    "word": "proclení",
+    "translation": "customs clearance",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-17T00:18:04.000Z",
+    "word": "proč",
+    "translation": "why"
+  },
+  {
+    "date": "2024-11-17T00:18:19.000Z",
+    "word": "prodavač",
+    "translation": "shop assistant (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:18:54.000Z",
+    "word": "prodavácka",
+    "translation": "shop assistant (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:19:32.000Z",
+    "word": "prodávat",
+    "translation": "to sell",
+    "Notes": "prodat"
+  },
+  {
+    "date": "2024-11-17T00:19:47.000Z",
+    "word": "prodej",
+    "translation": "sale, selling",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:20:03.000Z",
+    "word": "profesor",
+    "translation": "professor (M)",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:20:28.000Z",
+    "word": "profesorka",
+    "translation": "professor (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:20:56.000Z",
+    "word": "program",
+    "translation": "program, schedule, programme",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:21:48.000Z",
+    "word": "prohlídka",
+    "translation": "inspection, examination",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:22:24.000Z",
+    "word": "prohlížet si",
+    "translation": "to view, to see the sights (of)",
+    "Notes": "prohlédnout si"
+  },
+  {
+    "date": "2024-11-17T00:24:09.000Z",
+    "word": "procházet se",
+    "translation": "to take a walk",
+    "Notes": "projít se, projdu se"
+  },
+  {
+    "date": "2024-11-17T00:24:27.000Z",
+    "word": "procházka",
+    "translation": "walk",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:24:42.000Z",
+    "word": "projednat",
+    "translation": "to discuss",
+    "Notes": "jednat o"
+  },
+  {
+    "date": "2024-11-17T00:25:52.000Z",
+    "word": "projít",
+    "translation": "to pass through",
+    "Notes": "projdu (I'll pass through), procházet"
+  },
+  {
+    "date": "2024-11-17T00:27:13.000Z",
+    "word": "projít se",
+    "translation": "to take a walk",
+    "Notes": "projdu se (I'll take a walk), procházet se"
+  },
+  {
+    "date": "2024-11-17T00:28:15.000Z",
+    "word": "prominout",
+    "translation": "to excuse, to forgive",
+    "Notes": "promiň(te)! (excuse me)"
+  },
+  {
+    "date": "2024-11-17T00:29:21.000Z",
+    "word": "pronajmout si",
+    "translation": "to rent",
+    "Notes": "pronajal ((he) rented)"
+  },
+  {
+    "date": "2024-11-17T00:30:07.000Z",
+    "word": "propisovačka",
+    "translation": "ballpoint pen",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:30:26.000Z",
+    "word": "prosím",
+    "translation": "please, you are welcome"
+  },
+  {
+    "date": "2024-11-17T00:31:17.000Z",
+    "word": "prosinec",
+    "translation": "December",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:32:00.000Z",
+    "word": "prosit",
+    "translation": "to ask",
+    "Notes": "prosit o (to ask somebody for something), poprosit"
+  },
+  {
+    "date": "2024-11-17T00:32:48.000Z",
+    "word": "prostudovat",
+    "translation": "to study",
+    "Notes": "studovat"
+  },
+  {
+    "date": "2024-11-17T00:33:34.000Z",
+    "word": "proti",
+    "translation": "against; opposite"
+  },
+  {
+    "date": "2024-11-17T00:33:54.000Z",
+    "word": "proto",
+    "translation": "therefore, that is why"
+  },
+  {
+    "date": "2024-11-17T00:34:07.000Z",
+    "word": "protože",
+    "translation": "because"
+  },
+  {
+    "date": "2024-11-17T00:34:21.000Z",
+    "word": "pršet",
+    "translation": "to rain"
+  },
+  {
+    "date": "2024-11-17T00:34:41.000Z",
+    "word": "průkaz",
+    "translation": "license, card",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:34:57.000Z",
+    "word": "průvodce",
+    "translation": "guide (M), guidebook",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:35:18.000Z",
+    "word": "průvodkyně",
+    "translation": "guide (F)",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:35:46.000Z",
+    "word": "první",
+    "translation": "first"
+  },
+  {
+    "date": "2024-11-17T00:35:58.000Z",
+    "word": "pryč",
+    "translation": "away, off"
+  },
+  {
+    "date": "2024-11-17T00:36:11.000Z",
+    "word": "přání",
+    "translation": "wish, desire",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-17T00:36:54.000Z",
+    "word": "přát",
+    "translation": "to wish, to hope",
+    "Notes": "přát (si), přeju si (I would like), popřát, popřeju"
+  },
+  {
+    "date": "2024-11-17T00:37:59.000Z",
+    "word": "přečíst",
+    "translation": "to read",
+    "Notes": "přečtu (I'll read), číst, čtu"
+  },
+  {
+    "date": "2024-11-17T00:38:16.000Z",
+    "word": "před, přede",
+    "translation": "ago, before"
+  },
+  {
+    "date": "2024-11-17T00:38:27.000Z",
+    "word": "předem",
+    "translation": "in advance"
+  },
+  {
+    "date": "2024-11-17T00:39:09.000Z",
+    "word": "předepsat",
+    "translation": "to prescribe",
+    "Notes": "předepíšu (I'll prescribe), předepisovat"
+  },
+  {
+    "date": "2024-11-17T00:40:48.000Z",
+    "word": "přední sklo",
+    "translation": "windshield",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-17T00:41:03.000Z",
+    "word": "předpokládat",
+    "translation": "to suppose"
+  },
+  {
+    "date": "2024-11-17T00:41:52.000Z",
+    "word": "představovat",
+    "translation": "to introduce",
+    "Notes": "představovat (se) (to introduce oneself), představit (se)"
+  },
+  {
+    "date": "2024-11-17T00:42:20.000Z",
+    "word": "přecházet",
+    "translation": "to pass by, over",
+    "Notes": "přejít, přejdu"
+  },
+  {
+    "date": "2024-11-17T00:42:38.000Z",
+    "word": "přeložit",
+    "translation": "to translate",
+    "Notes": "překládat"
+  },
+  {
+    "date": "2024-11-17T00:42:50.000Z",
+    "word": "přesně",
+    "translation": "exactly"
+  },
+  {
+    "date": "2024-11-17T00:43:28.000Z",
+    "word": "přespat",
+    "translation": "to spend the night, sleep over",
+    "Notes": "přespím"
+  },
+  {
+    "date": "2024-11-17T00:44:18.000Z",
+    "word": "přestávka",
+    "translation": "pause, break",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:45:03.000Z",
+    "word": "přestěhovat se",
+    "translation": "to move (house)",
+    "Notes": "stěhovat se"
+  },
+  {
+    "date": "2024-11-17T00:45:56.000Z",
+    "word": "přestupovat",
+    "translation": "to transfer (e.g. trains)",
+    "Notes": "přestoupit"
+  },
+  {
+    "date": "2024-11-17T00:46:22.000Z",
+    "word": "převléknout se",
+    "translation": "to change clothes",
+    "Notes": "převlékat se"
+  },
+  {
+    "date": "2024-11-17T00:46:36.000Z",
+    "word": "při",
+    "translation": "at, near, close to"
+  },
+  {
+    "date": "2024-11-17T00:47:03.000Z",
+    "word": "příbor",
+    "translation": "cutlery",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:47:34.000Z",
+    "word": "přicházet",
+    "translation": "to arrive, to come (on foot)",
+    "Notes": "přijít, přijdu"
+  },
+  {
+    "date": "2024-11-17T00:48:20.000Z",
+    "word": "příjemný",
+    "translation": "pleasant",
+    "Notes": "přijemná, přijemné"
+  },
+  {
+    "date": "2024-11-17T00:48:59.000Z",
+    "word": "přijet",
+    "translation": "to arrive (by vehicle)",
+    "Notes": "přijedu, přijíždět"
+  },
+  {
+    "date": "2024-11-17T00:49:37.000Z",
+    "word": "přijít",
+    "translation": "to arrive (on foot)",
+    "Notes": "přijdu, přicházet"
+  },
+  {
+    "date": "2024-11-17T00:50:16.000Z",
+    "word": "příjmení",
+    "translation": "surname, last name, family name",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-17T00:50:45.000Z",
+    "word": "přiletět",
+    "translation": "to fly in",
+    "Notes": "přilétat"
+  },
+  {
+    "date": "2024-11-17T00:50:56.000Z",
+    "word": "přímo",
+    "translation": "directly"
+  },
+  {
+    "date": "2024-11-17T00:51:37.000Z",
+    "word": "přinést",
+    "translation": "to bring",
+    "Notes": "přinesu (I'll bring), přinášet"
+  },
+  {
+    "date": "2024-11-17T00:51:55.000Z",
+    "word": "případ",
+    "translation": "case",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:53:27.000Z",
+    "word": "připíjet si",
+    "translation": "to toast",
+    "Notes": "připíjet si na (to toast to), připít si, připiju si (I'll toast)"
+  },
+  {
+    "date": "2024-11-17T00:54:05.000Z",
+    "word": "připravený",
+    "translation": "prepared, ready",
+    "Notes": "připravená, připravené"
+  },
+  {
+    "date": "2024-11-17T00:54:33.000Z",
+    "word": "připravovat se",
+    "translation": "to get ready",
+    "Notes": "připravovat se na, připravit se"
+  },
+  {
+    "date": "2024-11-17T00:54:48.000Z",
+    "word": "příroda",
+    "translation": "nature",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:55:06.000Z",
+    "word": "příště",
+    "translation": "next time"
+  },
+  {
+    "date": "2024-11-17T00:55:21.000Z",
+    "word": "příští",
+    "translation": "next"
+  },
+  {
+    "date": "2024-11-17T00:55:47.000Z",
+    "word": "přítel",
+    "translation": "friend (M), boyfriend",
+    "Gender": "M"
+  },
+  {
+    "date": "2024-11-17T00:56:03.000Z",
+    "word": "přítelkyně",
+    "translation": "friend (F), girlfriend",
+    "Gender": "F"
+  },
+  {
+    "date": "2024-11-17T00:56:22.000Z",
+    "word": "přivítat",
+    "translation": "to welcome",
+    "Notes": "vítat"
+  },
+  {
+    "date": "2024-11-17T00:56:39.000Z",
+    "word": "přízemí",
+    "translation": "ground floor",
+    "Gender": "N"
+  },
+  {
+    "date": "2024-11-17T00:56:55.000Z",
+    "word": "psát",
+    "translation": "to write",
+    "Notes": "píšu, napsat, napíšu"
+  },
+  {
+    "date": "2024-11-17T00:57:35.000Z",
+    "word": "ptát se",
+    "translation": "to ask",
+    "Notes": "ptát se na (to ask about), zeptat se"
+  },
+  {
+    "date": "2024-11-17T00:58:10.000Z",
+    "word": "půjčovat",
+    "translation": "to lend",
+    "Notes": "půjčovat si (to borrow), půjčit (si)"
+  },
+  {
+    "date": "2024-11-17T00:58:23.000Z",
+    "word": "půl hodiny",
+    "translation": "half an hour"
+  },
+  {
+    "date": "2024-11-17T00:58:44.000Z",
+    "word": "půl(ka)",
+    "translation": "half"
+  },
+  {
+    "date": "2024-11-17T00:59:07.000Z",
+    "word": "půlnoc",
+    "translation": "midnight",
+    "Gender": "F",
+    "Notes": "o půlnoci (at midnight)"
   },
   {
     "word": "dům",
