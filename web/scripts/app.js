@@ -7,6 +7,7 @@ let score = 0;
 const questionsPerRound = 10; // You can adjust this number
 let selectedLanguagePair = '';
 let translationDirection = 'forward';
+let performanceData = {}; // To track word performance
 
 function init() {
   const app = document.getElementById('app');
@@ -29,6 +30,7 @@ function init() {
       </div>
     </div>
   `;
+  loadPerformanceData();
 }
 
 function loadWordList(languagePair, direction = 'forward') {
@@ -39,6 +41,7 @@ function loadWordList(languagePair, direction = 'forward') {
     .then(response => response.json())
     .then(data => {
       wordList = data;
+      initializePerformanceData(wordList);
       startQuiz();
     })
     .catch(error => {
@@ -55,20 +58,25 @@ function startQuiz() {
 }
 
 function generateQuestions() {
-  // Shuffle the word list
-  const shuffledWordList = wordList.sort(() => 0.5 - Math.random());
-
-  // Select the number of questions for the round
-  const selectedWords = shuffledWordList.slice(0, questionsPerRound);
-
   // Map the words to questions, depending on translation direction
-  questions = selectedWords.map(item => {
+  const weightedWords = calculateWeightedWords();
+  questions = weightedWords.slice(0, questionsPerRound).map(item => {
     if (translationDirection === 'forward') {
       return { word: item.word, translation: item.translation };
     } else {
       return { word: item.translation, translation: item.word };
     }
   });
+}
+
+function calculateWeightedWords() {
+  return wordList
+    .map(word => {
+      const performance = performanceData[word.word] || { correct: 0, total: 0 };
+      const weight = performance.total === 0 ? 1 : 1 - performance.correct / performance.total;
+      return { ...word, weight };
+    })
+    .sort((a, b) => b.weight - a.weight);
 }
 
 function showQuestion() {
@@ -148,6 +156,7 @@ function selectOption(buttonElement, selectedOption) {
   if (selectedOption === question.translation) {
     score++;
     buttonElement.classList.add('list-group-item-success');
+    updatePerformance(question.word, true);
   } else {
     buttonElement.classList.add('list-group-item-danger');
 
@@ -157,6 +166,7 @@ function selectOption(buttonElement, selectedOption) {
         button.classList.add('list-group-item-success');
       }
     });
+    updatePerformance(question.word, false);
   }
 
   // Proceed to the next question after a short delay (500 ms)
@@ -210,6 +220,35 @@ function toggleDarkMode() {
   } else {
     icon.textContent = 'dark_mode';
   }
+}
+
+function initializePerformanceData(wordList) {
+  wordList.forEach(word => {
+    if (!performanceData[word.word]) {
+      performanceData[word.word] = { correct: 0, total: 0 };
+    }
+  });
+  savePerformanceData();
+}
+
+function updatePerformance(word, isCorrect) {
+  if (!performanceData[word]) {
+    performanceData[word] = { correct: 0, total: 0 };
+  }
+  performanceData[word].total++;
+  if (isCorrect) {
+    performanceData[word].correct++;
+  }
+  savePerformanceData();
+}
+
+function loadPerformanceData() {
+  const storedData = localStorage.getItem('performanceData');
+  performanceData = storedData ? JSON.parse(storedData) : {};
+}
+
+function savePerformanceData() {
+  localStorage.setItem('performanceData', JSON.stringify(performanceData));
 }
 
 // Initialize the app when the window loads
