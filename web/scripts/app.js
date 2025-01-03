@@ -70,7 +70,10 @@ function generateQuestions() {
 }
 
 function calculateWeightedWords() {
-  return wordList
+  // Shuffle the word list
+  const shuffledWordList = wordList.sort(() => 0.5 - Math.random());
+  // Calculate weights based on performance data
+  return shuffledWordList
     .map(word => {
       const performance = performanceData[word.word] || { correct: 0, total: 0 };
       const weight = performance.total === 0 ? 1 : 1 - performance.correct / performance.total;
